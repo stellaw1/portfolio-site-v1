@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Year Experience
-tags: [life] [school]
+tags: [life]
 ---
 
 Hello Again! More than a year has passed since my last post... However, many exciting events have happened since! I graduated high school. I found my first love. And, I've almost finished my first year of university. Phew. 

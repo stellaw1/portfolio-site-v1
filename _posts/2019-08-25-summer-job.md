@@ -12,3 +12,5 @@ This past summer has been a blast. Though, it has been busy and hectic, it was a
 ## Workshops gang
 
 ## SSgang
+
+Highly recommend all to apply. 
