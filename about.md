@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my brain dump! 
 
 ### More Information
 
