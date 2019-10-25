@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my brain dump! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Stella Wang, and I am a computer engineering student at the University of British Columbia. Recently, at the DubHacks hackathon at the University of Washington, I was inspired to attempt various personal projects, including building a web page portfolio. Here I will attempt to keep my projects, resume, and blog updated. 
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[stella.wang@alumni.ubc.ca](mailto:stella.wang@alumni.ubc.ca)
