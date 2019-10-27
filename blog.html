@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -54,3 +51,5 @@ layout: default
     </span>
   {% endif %}
 </div>
+
+
