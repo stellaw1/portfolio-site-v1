@@ -238,12 +238,11 @@ a.footnote {
     margin: 0 3px;
     padding: 0 2px;
     font-size: $small-font-size;
-    font-family: $base-font;
     text-align: center;
     border: 1px solid $footnote-link-border-color;
     border-radius: 2px;
     -webkit-text-stroke: 0.25px;
-    -webkit-transition: 0.2s ease-out all;
+    // -webkit-transition: 0.2s ease-out all;
     text-decoration: none;
 
     &:hover {
@@ -255,7 +254,6 @@ a.footnote {
 .footnotes {
   border-top: 1px solid $divider-color;
   font-size: $small-font-size;
-  font-family: $base-font;
 }
 
 // Image
@@ -360,8 +358,8 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $base-font;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 400;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
@@ -539,7 +537,6 @@ nav {
 
 .tags > .tag {
   font-family: $base-font;
-  
   a {
     color: $base-color;
   }
