@@ -3,9 +3,10 @@
   {% include head.html %}
   <body>
     {% include nav.html %}
-
+    {% include blog.html %}
+    
     <div id="main" role="main" class="container">
-      {% include blog.html %}
+      {{ content }}
     </div>}
 
     <div class="wrapper-footer">
@@ -18,9 +19,5 @@
 
     {% include analytics.html %}
   </body>
-
-  {% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
 
 </html>
