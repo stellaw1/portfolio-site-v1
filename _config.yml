@@ -19,9 +19,9 @@ avatar: https://avatars0.githubusercontent.com/u/46392676?s=460&v=4
 # Tabs in header and URL Link
 navigation:
   - name: Blog
-    url: /blog
+    url: /blog/
   - name: Projects
-    url: /projects
+    url: /projects/
   - name: Resume
     url: /resume.pdf
   - name: About

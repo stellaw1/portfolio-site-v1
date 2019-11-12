@@ -4,12 +4,11 @@ title: DubHacks 2019!
 tags: [tech]
 ---
 
+Here is a log of what happened at my first ever hackathon and some reflections. 
 
-## Day 1 <br>
+## Day 1 - October 12th, 2019 <br>
+The expereience began with the dreaded 6AM wakeup call. After approximately 3 hours of passing out on the bus, we arrived at the University of Washington. At this point I was super excited because I had a couple of interesting ideas I wanted to develop, but also I was seeing an old friend that I haven't seen in a while. 
 
-6AM- hella passed out on the bus, appreciation for not having to drive
-Always nice seeing an old friend
-A couple ideas going in
 Picked one and went with it (knowing our limits and choosing the idea with most potential to affect change)
 Kind of lost at beginning, not sure what to do/ how to help
 Sometimes harder to collaborate then work on own but time limit and wider skills
