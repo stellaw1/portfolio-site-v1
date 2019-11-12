@@ -21,7 +21,7 @@ navigation:
   - name: Blog
     url: /blog/index.html
   - name: Projects
-    url: /projects/
+    url: /projects/index.html
   - name: Resume
     url: /resume.pdf
   - name: About
