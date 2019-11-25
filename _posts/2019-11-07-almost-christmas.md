@@ -22,7 +22,7 @@ Below is a list of things I want to accomplish this Christmas season
 1. Decorate my apartment 
    Not anything super significant, but having a small tree and a couple green and red decorations to wake up to everyday brightens my day. 
 2. An act of kindness
-   Whether it's buying a stranger a cup of coffee or donating to a homeless shelter, I want to do everything I can to give back to those in need. 
+   Whether it's buying a stranger a cup of coffee or donating to a homeless shelter, I want to do everything I can to give back to those in need. (UPDATE: I'm going to buy a cup of coffee for my bus driver every morning starting in December)
 3. Spoil my friends and family
    These are the most important people in my life that keep my sane on a daily basis and they deserve to be treated like 
 4. Be the happiest I can be :)
