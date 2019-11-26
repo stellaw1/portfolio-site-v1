@@ -40,10 +40,10 @@ I am a sucker for to-do lists. Not only does it serve as a reminder for my poor 
 I began bullet journalling at the end of last summer, however, I soon realized it wasn't as effective as I imagined it. It was taking up a lot of precious time that I should've spent studying and ended up in the back of my bookshelf. I realized that bullet journaling is something that may help me in the future, maybe after I have a routine during work or anything of the sort. For now, I will stick to my method of journalling: documenting significant event in five words or less. 
 
 ## 11. Perseverence is hard <br>
-This. Especially, with working out and eating healthy. It is not easy to stay consistent every single day. You do what you can. 
+The alternative of perseverence, giving up, is possibly the easiest route any student can take. And, giving up is not necessarily synonymous with dropping out of school. Some people can and do achieve amazing goals with their lives without the guidance of education, however, dropping out of school to live a meaningless, lazy life is always tempting. My tip is to listen to Jordan Peterson whenever this feeling is prominent because he is one of the most motivating speakers that may just tell you what you need to hear to get back on track. 
 
 ## 12. Treat yourself <br>
-Self care and self love is the new thing!! Treat yourself after having worked hard on a project, a course, or a workout! 
+Self care and self love is the new thing! Treat yourself after having worked hard on a project, a course, or a workout! 
 
 ## 13. Learn to say no <br>
 In the past, I used to believe that flaking on plans with friends was the worst thing you could do. Now, I truly believe that it is 100% acceptable to cancel on plans if you are not in the right mindset and need to take a mental day. 
@@ -51,7 +51,7 @@ In the past, I used to believe that flaking on plans with friends was the worst 
 ## 14. Live a litte <br>
 Sometimes, I need to stop worrying about every person and every little detail and just let loose so my mind can relaxxx. 
 
-## 15. My family means everything to me <br>
+## 15. My family is my everything<br>
 This speaks for itself. My parents have sacrificed everything for my brother and I, and even then, all they ask for is for us to be healthy and happy. I am forever grateful of my happy little family and can only hope that I can grow up to treat them  half as well as they have me. 
 
 ## 16. Have a little faith <br>
