@@ -11,30 +11,20 @@ permalink: /blog/
   {% for post in paginator.posts %}
     <article class="post">
       <h1>
-        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
 
       <div clsss="meta">
         <span class="date">
           {{ post.date | date: "%Y-%m-%d" }}
-        </span>
-
-        <ul class="tag">
-          {% for tag in post.tags %}
-          <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-              {{ tag }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
+        </span>        
       </div>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="read-more">Read More ...</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More ...</a>
     </article>
   {% endfor %}
 </div>
@@ -42,14 +32,14 @@ permalink: /blog/
 <div class="pagination">
   {% if paginator.previous_page %}
     <span class="prev">
-      <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="prev">
         &#8592; Previous
       </a>
     </span>
   {% endif %}
   {% if paginator.next_page %}
     <span class="next">
-      <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">
         Next &#8594;
       </a>
     </span>
