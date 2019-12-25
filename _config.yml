@@ -1,6 +1,4 @@
-﻿#
-# This file contains configuration flags to customize your site
-#
+﻿# configuration flags to customize site
 
 # Name of your site (displayed in the header)
 name: Stella Wang
@@ -8,13 +6,8 @@ name: Stella Wang
 # Short bio or description (displayed in the header)
 description: Eng student with little time & BIG ideas. 
 
-#
-# Flags below are optional
-#
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# URL my GitHub profile pic
 avatar: https://avatars0.githubusercontent.com/u/46392676?s=460&v=4
-
 
 # Tabs in header and URL Link
 navigation:
@@ -28,7 +21,9 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 10
+paginate: 15
+permalink: /:title/
+paginate_path: /blog/page:num/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -68,12 +63,6 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl:
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:title/
-paginate_path: /blog/page:num/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
