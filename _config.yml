@@ -21,7 +21,7 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 6
+paginate: 20
 permalink: /:title/
 paginate_path: /blog/page:num/
 sort_field: 'date'
