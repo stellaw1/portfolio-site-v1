@@ -21,9 +21,11 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 6
-permalink: /:title/
-paginate_path: /blog/page:num/
+pagination:
+  paginate: 6
+  permalink: /:title/
+  paginate_path: /blog/page:num/
+  sort_field: 'date'
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -86,7 +88,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jemoji 
 
