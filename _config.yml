@@ -21,7 +21,7 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 15
+paginate: 10
 permalink: /:title/
 paginate_path: /blog/page:num/
 
