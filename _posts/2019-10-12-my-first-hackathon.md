@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DubHacks 2019!
-tags: [tech]
+tags: blog
 ---
 
 Here is a log of what happened at my first ever hackathon and some reflections. 

@@ -21,10 +21,10 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 20
-permalink: /:title/
-paginate_path: /blog/page:num/
-sort_field: 'date'
+# paginate: 20
+# permalink: /:title/
+# paginate_path: /blog/page:num/
+# sort_field: 'date'
 
 # Includes an icon in the footer for each username you enter
 footer-links:

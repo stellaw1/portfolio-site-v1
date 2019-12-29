@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Summer Job
-tags: [career]
+tags: blog
 ---
 
 "When I say Geering, you say Up. Geering! Up!"

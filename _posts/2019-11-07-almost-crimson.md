@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost Crimson!
-tags: [life]
+tags: blog
 ---
 
 Happy November 7th! Today is a good day because Starbucks started making their annal holiday drinks, which pretty much marks the beginning of the holiday season!

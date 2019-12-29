@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 lessons I've learnt at 19
-tags: [life]
+tags: blog
 ---
 
 Discailmer: In Canada, 19 is the big year when teens move on to adulthood, hence why we have 19 lessons rather than the usual 18...
