@@ -6,12 +6,12 @@ layout: default
   <h2> No projects found</h2>
 {% endif %}
 
-<div class="projects" background-color="blue">
+<div class="projects">
   {% for post in site.posts %}
     {% if post.tags contains 'project' %}
-      <div class="project">
+      <div class="project" bground-color="blue">
         <a href="{{ site.baseurl }}{{ post.url }}">
-            <img src={{site.baseurl}}/images/projects/{{post.image}} style="width:420px;height:256px;">
+            <img src={{site.baseurl}}/images/projects/{{post.image}} style="width:380px;height:256px;">
         </a>
 
         <a href="{{ site.baseurl }}{{ post.url }}">
