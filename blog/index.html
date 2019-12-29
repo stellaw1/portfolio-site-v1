@@ -1,47 +1,27 @@
 ---
 layout: default
-permalink: /blog/
 ---
 
 {% if site.posts.size == 0 %}
-  <h2>No post found</h2>
+  <h2> No posts found</h2>
 {% endif %}
 
-<div class="posts">
-  {% for post in paginator.posts %}
+
+{% for post in site.posts %}
+  {% if post.tags contains 'blog' %}
     <article class="post">
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
-
       <div clsss="meta">
         <span class="date">
           {{ post.date | date: "%Y-%m-%d" }}
         </span>        
       </div>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More ...</a>
     </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <span class="prev">
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="prev">
-        &#8592; Previous
-      </a>
-    </span>
   {% endif %}
-  {% if paginator.next_page %}
-    <span class="next">
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">
-        Next &#8594;
-      </a>
-    </span>
-  {% endif %}
-</div>
+{% endfor %}
