@@ -6,22 +6,23 @@ layout: default
   <h2> No posts found</h2>
 {% endif %}
 
-
-{% for post in site.posts %}
-  {% if post.tags contains 'blog' %}
-    <article class="post">
-      <h1>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
-      <div clsss="meta">
-        <span class="date">
-          {{ post.date | date: "%Y-%m-%d" }}
-        </span>        
-      </div>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More ...</a>
-    </article>
-  {% endif %}
-{% endfor %}
+<div class="posts">
+  {% for post in site.posts %}
+    {% if post.tags contains 'blog' %}
+      <article class="post">
+        <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+        <div clsss="meta">
+          <span class="date">
+            {{ post.date | date: "%Y-%m-%d" }}
+          </span>        
+        </div>
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More ...</a>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
