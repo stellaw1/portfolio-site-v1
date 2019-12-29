@@ -11,19 +11,18 @@ layout: default
     {% if post.tags contains 'project' %}
       <div class="project">
         <a href="{{ site.baseurl }}{{ post.url }}">
-            <img src={{site.baseurl}}/images/projects/{{post.image}} style="width:152px;height:128px;">
+            <img src={{site.baseurl}}/images/projects/{{post.image}} style="width:420px;height:256px;">
         </a>
-        <div class="details">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-                <h1>{{ post.title }}</h1>
-            </a>
 
-            <span class="date">
-                    {{ post.date | date: "%Y-%m-%d" }}
-                  </span>  
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <h1>{{ post.title }}</h1>
+        </a>
 
-            <p class="description">{{ post.excerpt }}</p>
-        </div>
+        <span class="date">
+            {{ post.date | date: "%Y-%m-%d" }}
+        </span>  
+        
+        <p class="description">{{ post.excerpt }}</p>
     </div>
     {% endif %}
   {% endfor %}
