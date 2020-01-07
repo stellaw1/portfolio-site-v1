@@ -6,7 +6,7 @@ layout: default
   <h2> No projects found</h2>
 {% endif %}
 
-<div class="posts">
+<div class="projects">
   {% for post in site.posts %}
     {% if post.tags contains 'project' %}
       <div class="project">
@@ -14,15 +14,18 @@ layout: default
             <img src={{site.baseurl}}/images/projects/{{post.image}}>
         </a>
 
-        <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="description">
+          <a href="{{ site.baseurl }}{{ post.url }}">
             <h1>{{ post.title }}</h1>
-        </a>
+          </a>
 
-        <span class="date">
-            {{ post.date | date: "%Y-%m-%d" }}
-        </span>  
+          <span class="date">
+              {{ post.date | date: "%Y-%m-%d" }}
+          </span>  
+          
+          <p class="excerpt">{{ post.excerpt }}</p>
+        </div>
         
-        <p class="description">{{ post.excerpt }}</p>
     </div>
     {% endif %}
   {% endfor %}
