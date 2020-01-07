@@ -493,7 +493,7 @@ nav {
 // Projects
 .projects > .project {
   padding-bottom: 2em;
-  border-bottom: 5px solid white;
+  border-bottom: 25px solid white;
 }
 
 .projects > .project:last-child {
@@ -502,8 +502,8 @@ nav {
 }
 
 .project {
-  background-color:rgb(211, 211, 211);
-  height: 250px;
+  background-color:rgb(233, 233, 233);
+  height: 220px;
 
   h1 {
     margin-bottom: .1em;
@@ -524,8 +524,8 @@ nav {
 
 .project img {
   height: 160px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   margin-left: 20px;
   margin-right: 40px;
   width: 300px;
