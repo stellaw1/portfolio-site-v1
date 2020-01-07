@@ -2,12 +2,13 @@
 layout: default
 ---
 
-{% if site.projects.size == 0 %}
+{% if site.posts.size == 0 %}
   <h2> No projects found</h2>
 {% endif %}
 
 <div class="projects">
-  {% for post in site.projects %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'project' %}
       <div class="project">
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img src={{site.baseurl}}/images/projects/{{post.image}}>
@@ -26,5 +27,6 @@ layout: default
         </div>
         
     </div>
+    {% endif %}
   {% endfor %}
 </div>
