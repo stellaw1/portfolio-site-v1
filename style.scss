@@ -493,17 +493,17 @@ nav {
 // Projects
 .projects > .project {
   padding-bottom: 2em;
-  border-bottom: 25px solid white;
+  border-bottom: 30px solid white;
 }
 
 .projects > .project:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  border-bottom: 30px solid white;
 }
 
 .project {
   background-color:rgb(233, 233, 233);
-  height: 220px;
+  height: 250px;
 
   h1 {
     margin-bottom: .1em;
