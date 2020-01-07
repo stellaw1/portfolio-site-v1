@@ -2,7 +2,7 @@
 layout: post
 title: Food Fairy
 tags: project
-image: foodfairy.jpg
+image: foodfairy.png
 ---
 
 A foodwaste manager project built at the University of Washington Dubhacks hackathon. 
