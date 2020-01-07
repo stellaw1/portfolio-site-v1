@@ -490,6 +490,37 @@ nav {
   }
 }
 
+// Projects
+.project {
+  width: 100%;
+  background-color:rgb(165, 165, 165);
+  height: 300px;
+
+  h1 {
+    margin-bottom: .1em;
+  }
+
+  .date {
+    font-weight: 300;
+    font-size: $small-font-size;
+    color: $base-lighten-color;
+    margin-right: 3px;
+  }
+
+  .project img {
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 40px;
+    width: 300px;
+    float: left;
+    /* Maximum sizes to make sure everything works properly */
+    max-width: 30%;
+  }
+
+}
+
 // Archive
 .archive {
   a {
