@@ -2,7 +2,7 @@
 layout: post
 title: Braille-ify
 tags: project
-image: brailleify.jpg
+image: brailleify.png
 ---
 
 A digital text to Brialle translator submitted at the University of British Columbia Local Hack Day hackathon. 
