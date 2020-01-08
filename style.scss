@@ -414,6 +414,7 @@ nav {
 }
 
 .post {
+  max-width: 800px;
   h1 {
     margin-bottom: .1em;
   }
@@ -504,6 +505,7 @@ nav {
 
 .project {
   background-color: $footer-background-color;
+  max-width: 800px;
   height: 250px;
 
   h1 {
