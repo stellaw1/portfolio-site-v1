@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Food Fairy
-tags: project, completed
+tags: completedproject
 image: foodfairy.png
 ---
 

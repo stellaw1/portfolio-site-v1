@@ -9,8 +9,7 @@ layout: default
 <h1>Planned Projects</h1>
 <div class="projects">
   {% for post in site.posts %}
-    {% if post.tags contains 'project' %}
-      {% if post.tags contains 'planned' %}
+    {% if post.tags contains 'plannedproject' %}
       <div class="project">
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img src={{site.baseurl}}/images/projects/{{post.image}}>
@@ -28,7 +27,6 @@ layout: default
           <p class="excerpt">{{ post.excerpt }}</p>
         </div>
       </div>
-      {% endif %}
     {% endif %}
   {% endfor %}
 </div>
@@ -38,8 +36,7 @@ layout: default
 <h1>Completed Projects</h1>
 <div class="projects">
   {% for post in site.posts %}
-    {% if post.tags contains 'project' %}
-      {% if post.tags contains 'completed' %}
+    {% if post.tags contains 'completedproject' %}
       <div class="project">
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img src={{site.baseurl}}/images/projects/{{post.image}}>
@@ -57,7 +54,6 @@ layout: default
           <p class="excerpt">{{ post.excerpt }}</p>
         </div>
       </div>
-      {% endif %}
     {% endif %}
   {% endfor %}
 </div>

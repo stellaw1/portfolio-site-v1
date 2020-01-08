@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Braille-ify
-tags: project, completed
+tags: completedproject
 image: brailleify.png
 ---
 
