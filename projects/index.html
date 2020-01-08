@@ -10,7 +10,7 @@ layout: default
 <div class="projects">
   {% for post in site.posts %}
     {% if post.tags contains 'project' %}
-      {% if post.tags contains 'future' %}
+      {% if post.tags contains 'planned' %}
       <div class="project">
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img src={{site.baseurl}}/images/projects/{{post.image}}>
