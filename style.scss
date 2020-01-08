@@ -1,5 +1,9 @@
+---
+---
 
+//
 // IMPORTS
+//
 
 @import "reset";
 @import "open-color";
@@ -259,12 +263,6 @@ img {
   max-width: 100%;
   margin: 0 0 1em;
   border-radius: 5px;
-}
-
-img[alt=me] {
-  size: 60%;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -655,5 +653,6 @@ footer {
   }
 }
 
-
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
