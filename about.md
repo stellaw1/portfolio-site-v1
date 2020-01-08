@@ -1,14 +1,22 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Welcome to my brain dump! 
+My name is Stella Wang, and I am a second year computer engineering student at the University of British Columbia. At my first hackathon, (DubHacks at the University of Washington), the many creative and innovative projects inspired me to tackle various  projects of my own. Among these includes building a personal web page portfolio, which also helps to track my goals and make them more actionable. Here I will attempt to keep my projects, resume, and blog updated. 
 
-### More Information
+## Career Interests
+- Software development of cyber security in online banking
+- Front-end web development and design
+- AI that contributes to a more sustainable environment
 
-My name is Stella Wang, and I am a computer engineering student at the University of British Columbia. Recently, at the DubHacks hackathon at the University of Washington, I was inspired to attempt various personal projects, including building a web page portfolio. Here I will attempt to keep my projects, resume, and blog updated. 
+## Hobbies
+- Hackathons
+- Painting (Oil painting, acrylic)
+- Journalling
+- Sports (Soccer, Volleyball, Kickboxing)
+- Travelling
 
 ### Contact me
 [stella.wang@alumni.ubc.ca](mailto:stella.wang@alumni.ubc.ca)
