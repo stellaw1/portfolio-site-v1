@@ -12,7 +12,7 @@ I rememeber back in high school, I would spend hours and hours imagining and pre
 ## Reality <br>
 Realistically speaking... it was a rough 8 months. The competitiveness, the abundance of work and the difficulty of it were all too true. The content (especially Physics) was hard to grasp right from the beginning, and the assignments just kept coming in. During term 1, I felt like I needed to be working every minute of my day in order to keep up with courses and to keep myself sane. I worked like a machine; I would wake up, hit the library, head to classes, hit the library again, then head to bed. I didn't allow myself much time for socializing or relaxing. In the end, my mental and physical health hit a low I have never experienced before. Although I came out of that semester with pretty good grades, the realization that health needs to be prioritized before anything else made the next term much more enjoyable. By the end of term 2, I had made friends that I love spending time with and could handle my stress and anxiety much better (especially around exam season). 
 
-##Finding balance <br>
+## Finding balance <br>
 Reflecting back, it became apparent to me just how deep of a role 'balance' plays in university students' lives. Comparing two very different time periods: term 1 and term 2, one of them felt like what a student life should be, while the other served as a learning experience. Now, with new time management and self care skills in mind, I look forward to beginning chapter 2 of university in September. 
 
 ## Highlights <br>
