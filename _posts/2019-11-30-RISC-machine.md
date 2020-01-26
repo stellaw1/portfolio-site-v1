@@ -5,10 +5,10 @@ tags: completedproject
 image: RISC.jpg
 ---
 
-Built a turing complete simple Reduced Instruction Set Computer machine with branching and memory functions on the FPGA component of a De1-SoC board using Verilog. 
+A simple RISC machine built on the FPGA component of a De1-SoC board. 
 
 ## Purpose
-Built in the lab of a Microcomputers course at UBC. 
+Built a turing complete simple Reduced Instruction Set Computer machine with branching and memory functions on the FPGA component of a De1-SoC board using Verilog in the lab of a Microcomputers course at UBC. 
 
 ## Functions
 - Finite State Machine (FSM) controller
