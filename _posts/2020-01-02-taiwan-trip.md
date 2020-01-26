@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Exploring my hometown, Taiwan [DOCUMENTED]
+title: Exploring my hometown, Taiwan
 tags: blog
 ---
-
 
 My hometown, Taiwan, documented on film.  
 
@@ -16,4 +15,4 @@ Normally, I am a pretty introverted and self-conscious person. I once read in a 
 ## The Vlogs
 Filming everything I did in Taiwan originally started as a joke between me and my friends, but I soon realized that there are too many fascinating and quirky things in Taiwan that need to be remembered forever. So, with a "why not" attitude, I decided to yet again put my reputation on the line. With my iPhone and some quick edits in iMovie, I present to you a series: My hometown, Taiwan, documented. 
 
-[test link](http://youtube.com)
+[THE VLOGS](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOnCefIQ6JWXc7qfnuXV89o2)
