@@ -2,7 +2,7 @@
 layout: post
 title: Millenium Falcon
 tags: completedproject
-image: millenium.jpg
+image: millenium.png
 ---
 
 A space game that utilizes graph theory, designed for a project in a basic algorithms and data structures course.
