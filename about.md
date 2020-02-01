@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![me](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me.jpg?raw=true){:height="500px" width="700px" .center-image}
+![me](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me.jpg?raw=true){:height="430px" width="700px" .center-image}
 
 My name is Stella Wang, and I am a second year computer engineering student at the University of British Columbia. At my first hackathon, (DubHacks at the University of Washington), the many creative and innovative projects inspired me to tackle   personal projects of my own. The first one was to build a personal web page portfolio, which also helps to track my goals and make them more actionable. Here I will attempt to keep my projects, resume, and blog updated. 
 
