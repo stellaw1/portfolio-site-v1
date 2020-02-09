@@ -10,7 +10,7 @@ How has it already been a month into 2020?!
 I am not an avid believer in setting "new year's resolutions" because I do not believe that setting habits or changing your lifestyle for the better is something that should rely on a specfic time of the year. If you feel unhealthy or are not enjoying your way of life at the moment, you should set goals and actionable plans to change that no matter what time of the year it is. That being said, I got the chance to reflect deeply about my life during the winter break and ended up setting goals and aspirations that coincidentally lined up with the beginning of a new year. 
 
 In my room, there is a poster that says "Do more of what you love and be more imperfect and honest with others and yourself." 
-![Medium example image](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/poster.JPG?raw=true)
+![Medium example image](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/poster.jpg?raw=true)
 At the time, I had not fully formed my thoughts into words or actions yet. However, in my head, I had this concrete feeling of knowing what I needed was to be more spontaneous and confident in my decisions. So playing into the newfound spontaneity, I made this poster that serves more as a reminder about this perspective rather than a strict guideline. 
 
 Now, a month has passed and I still can't fully describe my "resolution". However, I can say that it has definitely made a difference in my life already. On a day to day basis, there is not a lot of overthinking or stress about tiny details that DO NOT MATTER. I am a lot more fearless in making decisions and in speaking up, whether that be standing up for things I believe in, defending a friend in an argument, or participating in academic discussions. 
@@ -27,20 +27,22 @@ As for concrete achievements, there were a few significant projects and tasks th
 6. I learnt C++ and have a stronger understanding about memory and pointers now
 
 ## Fun events from January 
-<b>Jan 3rd - </b> Dinner in White Rock + late night beach hang w/ my faves
-<b>Jan 4th - </b> Popeyes w/ Max, James, Jeffrey, Oliv, Daniel, Seann
-<b>Jan 10th - </b> First snow!
-<b>Jan 11th - </b> Went to nwHacks with Arnold, Amir, and Parsa
-<b>Jan 15th - </b> Snow day! (Day in w/ Seann + nice walk in nice snow)
-<b>Jan 19th - </b> Tiger Sugar in Canada is not as good as Taiwan :(
-<b>Jan 17th - </b> Wine night w/ Jen Jen + BMEG party loool
-<b>Jan 19th - </b> Introduced some of my high school friends (James & Daniel) to my uni friends (Rain, Arnold, Chi-Yao, David, and Jen) @ Suika
-<b>Jan 20th - </b> Started a workout challenge w/ Rav aka we film a timelapse of a 2 min plank every time we go to the gym
-<b>Jan 23rd - </b> Mum came to visit me and celebrate Chinese New Year together
-<b>Jan 25th - </b> Shopping w/ Mum
-<b>Jan 27th - </b> Dinner at Rajio with Seann, his mum, my mum, and I
+<b>Jan 3rd - </b> Dinner in White Rock + late night beach hang w/ my faves <br>
+<b>Jan 4th - </b> Popeyes w/ Max, James, Jeffrey, Oliv, Daniel, Seann<br>
+<b>Jan 10th - </b> First snow!<br>
+<b>Jan 11th - </b> Went to nwHacks with Arnold, Amir, and Parsa<br>
+<b>Jan 15th - </b> Snow day! (Day in w/ Seann + nice walk in nice snow)<br>
+<b>Jan 19th - </b> Tiger Sugar in Canada is not as good as Taiwan :(<br>
+<b>Jan 17th - </b> Wine night w/ Jen Jen + BMEG party loool<br>
+<b>Jan 19th - </b> Introduced some of my high school friends (James & Daniel) to my uni friends (Rain, Arnold, Chi-Yao, David, and Jen) @ Suika<br>
+<b>Jan 20th - </b> Started a workout challenge w/ Rav aka we film a timelapse of a 2 min plank every time we go to the gym<br>
+<b>Jan 23rd - </b> Mum came to visit me and celebrate Chinese New Year together<br>
+<b>Jan 25th - </b> Shopping w/ Mum<br>
+<b>Jan 27th - </b> Dinner at Rajio with Seann, his mum, my mum, and I<br>
 
 ## What now?
 I will continue to grow wiser and stronger with my new mindset and continue challenging myself with spontaneous decisions to participate in new experiences. At the end of February, we will reflect again and see what else will change, what I will accomplish, and how I will be feeling. 
+
+For concrete goals, I want to film one vlog series and one personal video for my YouTube channel. I also plan to complete one (realistically one but hopefully two) personal projects in Python. 
 
 But also, hopefully I can re-establish the sleeping early/ waking up early routine I had in the beginning of January...
