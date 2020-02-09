@@ -6,6 +6,7 @@ tags: blog
 
 How has it already been a month into 2020?!
 
+
 ## Resolution update
 I am not an avid believer in setting "new year's resolutions" because I do not believe that setting habits or changing your lifestyle for the better is something that should rely on a specfic time of the year. If you feel unhealthy or are not enjoying your way of life at the moment, you should set goals and actionable plans to change that no matter what time of the year it is. That being said, I got the chance to reflect deeply about my life during the winter break and ended up setting goals and aspirations that coincidentally lined up with the beginning of a new year. 
 
@@ -17,6 +18,7 @@ Now, a month has passed and I still can't fully describe my "resolution". Howeve
 
 Another big thing is my relationship with school which is a lot healthier this term. The biggest reason for this is because I let go of the idea that grades represent how much knowledge and understanding I have of a subject. I realized that doing coursework for grades is entirely different from learning for LEARNING. Rather than discovering tricks and memorizing formulas for an exam, I now have a genuine interest to attend lectures and challenge myself on assignments. It's a lot more enoyable and overall just a better way to fully understand and learn a topic when you are learning heuristically. 
 
+
 ## Achievements
 As for concrete achievements, there were a few significant projects and tasks that I finished in January. 
 1. I finished editing and uploading [the vlogs](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOnCefIQ6JWXc7qfnuXV89o2) from my Taiwan trip. 
@@ -25,6 +27,7 @@ As for concrete achievements, there were a few significant projects and tasks th
 4. I made a couple new friends in my major :)
 5. I booked a trip to visit my brother in Toronto spontaneously
 6. I learnt C++ and have a stronger understanding about memory and pointers now
+
 
 ## Fun events from January 
 <b>Jan 3rd - </b> Dinner in White Rock + late night beach hang w/ my faves <br>
@@ -39,6 +42,7 @@ As for concrete achievements, there were a few significant projects and tasks th
 <b>Jan 23rd - </b> Mum came to visit me and celebrate Chinese New Year together<br>
 <b>Jan 25th - </b> Shopping w/ Mum<br>
 <b>Jan 27th - </b> Dinner at Rajio with Seann, his mum, my mum, and I<br>
+
 
 ## What now?
 I will continue to grow wiser and stronger with my new mindset and continue challenging myself with spontaneous decisions to participate in new experiences. At the end of February, we will reflect again and see what else will change, what I will accomplish, and how I will be feeling. 
