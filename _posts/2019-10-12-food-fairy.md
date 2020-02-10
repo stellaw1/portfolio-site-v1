@@ -28,4 +28,6 @@ Sharpened Google Cloud and firebase skills and problem solving for cloud computi
 Once the web application has been finalized, we'd like to create a mobile app version of the tool for easier user accessibility. Future steps are to integrate our application into a voice assistant such as Google Assistant or Cortana for hands-free accessibility from the convenience of the users' homes and devices.
 
 ## Prototypes
-http://foodfairy.tech
+
+[scrnsht](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/foodfairy.png?raw=true)
+[http://foodfairy.tech/](http://foodfairy.tech/)

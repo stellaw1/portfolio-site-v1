@@ -8,6 +8,7 @@ tags: blog
 
 This past summer has been a blast. Though, it has been busy and hectic, it was an experience that was much more than I could have asked for. 
 
+[gu staff social](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/gu.jpg?raw=true)
 
 ## Workshops gang
 In late April, we began a week of training for the workshops season (May/ June). Workshops season meant that we went around to different schools in Vancouver, or sometimes farther, and lead a 1-2 hour workshop on different science topics. These workshops were usually taught by a pair of instructors and involved lots of hands on activities for the students. 
