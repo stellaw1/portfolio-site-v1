@@ -501,6 +501,7 @@ nav {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 .projects > .project {
@@ -519,12 +520,14 @@ nav {
 
   @include mobile {
     height: 180px;
-    font-size: $small-font-size;
-    max-width: 60%;
   }
 
   h1 {
     margin-bottom: .1em;
+    
+    @include mobile {
+      font-size: 18px;
+    }
   }
 
   .date {
@@ -540,6 +543,7 @@ nav {
 
     @include mobile {
       float: right;
+      font-size: 14px;
     }
   }
 }
@@ -556,7 +560,7 @@ nav {
 
   @include mobile {
     height: 100px;
-    margin-right: 40px;
+    margin-right: 10px;
   }
 }
 
