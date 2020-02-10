@@ -7,6 +7,8 @@ image: millenium.png
 
 A space game that utilizes graph theory, designed for a project in a basic algorithms and data structures course.
 
+<img src={{site.baseurl}}/images/projects/millenium.png>
+
 ## Background
 *Source: UBC CPEN 221 Fall term*
 *Author: Sathish Gopalakrishnan*
@@ -20,11 +22,11 @@ After locating Kamino and securing the Red October, the Millennium Falcon crew h
 Your goal is to embed the Millennium Falcon with specialized hunt-and-gather intelligence so that the spaceship can find Kamino and return to Earth with as much spice as possible. Finding Kamino and returning to Earth are essential; the more spice one gathers the better.
 
 ## Process
-<h2> Part 1: 
+<h2> Part 1: </h2>
 We designed a Graph ADT that represents a graph object that has vertices and edges with weights associated with them. We implemented methods for finding the shortest path, minimum spanning tree, and diameter, etc. for the graph. 
-<h2> Part 2: 
+<h2> Part 2: </h2>
 Using the Graph ADT, we developed a 'gathering' and 'seeking' method for Millenium Falcon spaceship to find the shortest path back planet to planet while gathering the most spices along its way. 
-<h2> Part 3: 
+<h2> Part 3: </h2>
 We used a GUI in IntelliJ to test and verify the efficiency and accuracy of our methods and used Gradle to test our code.  
 
 ## Lessons
