@@ -519,6 +519,8 @@ nav {
 
   @include mobile {
     height: 180px;
+    font-size: $small-font-size;
+    max-width: 60%;
   }
 
   h1 {
@@ -553,7 +555,7 @@ nav {
   max-width: 30%;
 
   @include mobile {
-    height: 60px;
+    height: 100px;
     margin-right: 40px;
   }
 }
