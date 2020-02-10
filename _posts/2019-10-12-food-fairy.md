@@ -29,5 +29,5 @@ Once the web application has been finalized, we'd like to create a mobile app ve
 
 ## Prototypes
 
-[scrnsht](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/foodfairy.png?raw=true)
+![scrnsht](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/foodfairy.png?raw=true)
 [http://foodfairy.tech/](http://foodfairy.tech/)
