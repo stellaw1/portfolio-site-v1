@@ -7,7 +7,7 @@ image: millenium.png
 
 A space game that utilizes graph theory, designed for a project in a basic algorithms and data structures course.
 
-<img src={{site.baseurl}}/images/projects/millenium.png>
+![millenium](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/millenium.png?raw=true)
 
 ## Background
 *Source: UBC CPEN 221 Fall term*
