@@ -2,7 +2,7 @@
 layout: post
 title: Assignment Scheduler
 tags: plannedproject
-image: project2.jpg
+image: scheduler.jpg
 ---
 
 An unfinished project that acts as a notification hub course assignments, exams, etc.
