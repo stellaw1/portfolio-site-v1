@@ -517,6 +517,10 @@ nav {
   background-color: $footer-background-color;
   height: 250px;
 
+  @include mobile {
+    height: 180px;
+  }
+
   h1 {
     margin-bottom: .1em;
   }
@@ -531,6 +535,10 @@ nav {
   .description{
     display: inline-block;
     width: 60%;
+
+    @include mobile {
+      float: right;
+    }
   }
 }
 
@@ -543,6 +551,11 @@ nav {
   width: 300px;
   float: left;
   max-width: 30%;
+
+  @include mobile {
+    height: 60px;
+    margin-right: 40px;
+  }
 }
 
 
