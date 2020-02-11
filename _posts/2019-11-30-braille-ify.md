@@ -24,4 +24,4 @@ Html parsing, making GUIs in Python, working with APIs.
 Concrete Raspberry Pi hardware that displays webpages in Braille in real-time.
 
 ## Prototype
-https://github.com/stellaw1/Braille-ify
+[GitHub](https://github.com/stellaw1/Braille-ify)
