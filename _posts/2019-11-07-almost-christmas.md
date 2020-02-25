@@ -31,3 +31,7 @@ Below is a list of things I want to accomplish this Christmas season
 ## Christmas music <br>
 https://open.spotify.com/playlist/5vZtlBCI6dcpokbzUuZem7?si=D8xdlfqFSv-ANFkpRmHklw
 PS. Send me song recommendations!
+
+
+Happy holidays, <br>
+Stella

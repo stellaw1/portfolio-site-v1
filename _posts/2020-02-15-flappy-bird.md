@@ -11,7 +11,7 @@ Planned reading break project to recreate the Flappy Bird game using Python
 Code Bullet
 
 ## Design 
-We will use python and Pixel Art to create the basis
+We will use python, PyGame and PixilArt to create the basis
 
 ## Lessons
 

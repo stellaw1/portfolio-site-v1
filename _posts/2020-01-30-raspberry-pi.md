@@ -11,10 +11,17 @@ CPEN 291 course project built with Arnold and Rain.
 - Raspberry Pi 4
 - LED
 - Breadboard
-- 
+- Ultrasonic sonar sensor (HC-SR04)
+- Digital temperature sensor (DHT11)
+- Shift register
+- Servo motor
+- Breadboard
 
 ## Software
 - Python
+- Raspbian
+- TkInter
+- Twitter API
 
 ## Design 
 

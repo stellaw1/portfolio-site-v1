@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspberry Pi embedded system
+title: Dancing BiPed Robot
 tags: completedproject
 image: rpi.jpg
 ---
