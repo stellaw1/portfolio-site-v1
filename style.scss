@@ -363,7 +363,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $base-font;
+  font-family: $head-font;
   font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
@@ -373,7 +373,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 14px;
-  font-family: $base-font;
+  font-family: $head-font;
 
   @include mobile {
     margin: 3px 0;
@@ -383,7 +383,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $base-font;
+  font-family: $head-font;
   font-size: 18px;
 
   @include mobile {
