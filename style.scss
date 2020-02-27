@@ -22,7 +22,7 @@ html {
 body {
   font-family: $base-font;
   color: $base-color;
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $base-font;
-  line-height: 1.7;
+  line-height: 1.8;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -48,7 +48,7 @@ h1, h2, h3, h5 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 34px;
   a {
     color: inherit;
   }
@@ -67,7 +67,7 @@ h4 {
   color: $base-lighten-color;
 }
 
-h4 {
+h5 {
   font-size: 22px;
   color: $base-lighten-color;
 }
