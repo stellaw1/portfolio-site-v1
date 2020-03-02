@@ -42,6 +42,7 @@ As for concrete achievements, there were a few significant projects and tasks th
 <b>Jan 23rd - </b> Mum came to visit me and celebrate Chinese New Year together<br>
 <b>Jan 25th - </b> Shopping w/ Mum<br>
 <b>Jan 27th - </b> Dinner at Rajio with Seann, his mum, my mum, and I<br>
+<b>Jan 29th - </b> Secured 2020 Summer Co-op position! <br>
 
 
 ## What now?
