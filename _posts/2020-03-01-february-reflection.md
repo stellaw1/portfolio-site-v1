@@ -16,7 +16,26 @@ Seeing how big and opportunity-filled the big city was made me realize how shelt
 
 Until then, here are some memories from Toronto that I will treasure forever :')
 
+![TO 1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO1.JPG?raw=true)
+> CN Tower view from Union Station. 
 
+![TO 2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO2.JPG?raw=true)
+> Selfie at the Toronto Lights Festival at Distillery District. 
+
+![TO 3](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO3.JPG?raw=true)
+> Exploring the U of T campus in good weather. 
+
+![TO 4](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO4.JPG?raw=true)
+> Golden Hour at Financial District. 
+
+![TO 5](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO5.JPG?raw=true)
+> Ian feeling sick at Niagara Falls :/
+
+![TO 6](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO6.JPG?raw=true)
+> Is the thumb of the mitten the cat's paw or tail? 
+
+
+PS. Toronto vlogs are coming soon to my [YouTube channel](https://www.youtube.com/channel/UCt2N5_ti9WrcclByyEC0unw?view_as=subscriber) !
 
 
 ## Lowlights
@@ -28,8 +47,9 @@ My dilemma was between choosing the safer route (secure a job first and be grate
 
 In the end, I could not fully justify either choice; it was one of those situations that you have no idea how it will play out. You just have to pick one and be okay with it. After my SAP interview, I thought I had butchered it, so, feeling unconfident, I ended up accepting the position at the smaller company. And, for the following two weeks, I was happy with my decision. 
 
-Then, on the first day of reading break, I received an email - "Job offer at SAP", and I just broke down. Never have I ever thought I would be so devastated to receive a job offer. I was wrapped up around the thought that I had made the wrong choice and that a major opportunity was missed. 
+Then, on the first day of reading break, I received an email - "Job offer at SAP", and I just broke down. Never have I ever thought I would be so devastated to receive a job offer. I was initially wrapped up around the thought that I had made the wrong choice and that a major opportunity was missed. "Why didn't I just reject the first offer," I would think to myself. 
 
+Now, I am able to think of the experience as a lesson. It taught me that nothing is perfect and not everything always plays out the way you want it to. Unfortunate timing and a lack of confidence lead to a missed opportunity this time, but I came out of it with a stronger sense of self and more concrete goals. I am confident that my next seeking term will be even more fulfilling. Plus, if I hadn't accepted the first offer, I wouldn't have visited Toronto this month, and that experience in and of itself was worth it. 
 
 
 ## Fun events from January 
