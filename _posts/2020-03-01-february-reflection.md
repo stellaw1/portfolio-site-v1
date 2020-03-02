@@ -28,7 +28,7 @@ My dilemma was between choosing the safer route (secure a job first and be grate
 
 In the end, I could not fully justify either choice; it was one of those situations that you have no idea how it will play out. You just have to pick one and be okay with it. After my SAP interview, I thought I had butchered it, so, feeling unconfident, I ended up accepting the position at the smaller company. And, for the following two weeks, I was happy with my decision. 
 
-Then, on the first day of reading break, I received an email - "Job offer at SAP", and I just broke down. Never have I ever thought I would be so devastated to receive a job offer. I was wrapped up around the thought that I had made the wrong choice, and a major opportunity was missed. 
+Then, on the first day of reading break, I received an email - "Job offer at SAP", and I just broke down. Never have I ever thought I would be so devastated to receive a job offer. I was wrapped up around the thought that I had made the wrong choice and that a major opportunity was missed. 
 
 
 
