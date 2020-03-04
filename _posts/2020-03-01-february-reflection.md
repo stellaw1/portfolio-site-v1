@@ -70,3 +70,7 @@ Now, I am able to think of the experience as a lesson. It taught me that nothing
 * Finish editing and uploading Toronto vlogs (upload every Monday)
 * Research and start a new personal project
 * Re-focus on school and properly learning/ understanding course content 
+
+
+Excited for March, 
+Stella

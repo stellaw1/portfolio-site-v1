@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry Pi embedded system
 tags: completedproject
-image: rpi.jpg
+image: raspberry-pi.png
 ---
 
 CPEN 291 course project built with Arnold and Rain. 
