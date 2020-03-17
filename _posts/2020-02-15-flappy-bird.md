@@ -9,7 +9,7 @@ Planned reading break project to recreate the Flappy Bird game using Python
 
 
 ## WORK IN PROGRESS
-[GitHub repository](https://github.com/ArnoldYing/FlappyBird)
+[GitHub repository](https://github.com/ArnoldYing/FlappyBird) collab with [Arnold](https://arnoldying.github.io)
 
 ## Inspiration
 Code Bullet
@@ -18,3 +18,5 @@ Code Bullet
 We will use python, PyGame and PixilArt to create the basis
 
 ## Reflection
+
+
