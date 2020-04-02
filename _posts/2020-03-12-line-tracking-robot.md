@@ -22,6 +22,10 @@ My team and I built a robot that essentially follows black lines on light surfac
 The main body of our robot is the 2WD Mobile Platform, which consists of 5 AAA batteries and 2 DC motors. The two DC motors connect to pins on the Motor Hat (attached to our Raspberry Pi) to allow control of voltage supply via the MotorKit using software. The battery source is attached to a power switch on the 2WD Mobile Platform before connecting to the Motor Hat. The motors can independently go forwards and backwards due to the individual H-Bridges existing in the motor hat, removing the need for our team to use relays or another large hardware component. 
 
 
+#### Headless Raspberry Pi 
+The headless Pi is used as the main CPU for the PID and the motors. It is attached to a portable battery pack and the Motor Hat. It is situated on the 2WD Mobile Platform robot to allow autonomous function and can be controlled via ssh shell after powering on. 
+
+
 #### Infrared Sensor protoboard
 ![sensor1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor1.jpg?raw=true)
 
@@ -32,15 +36,14 @@ The four sensors are configured in two pairs that are situated tape-width apart 
 Sensors are sampled at a rate of 3000 Hz, namely approximately every 1/3000 seconds. The sample rate was decided upon after trial and error and fine tuning to allow for sufficient time to see a sharp turn and react to it. 
 
 
-#### Headless Raspberry Pi 
-●	The headless Pi use, implementation, and challenges
-The headless Pi is used as the main controller for the PID algorithm and the motor speeds. It is attached to a portable battery pack and the Motor Hat and is situated on the 2WD Mobile Platform robot to allow autonomous function and can be controlled via ssh if needed after powering on. 
-It is at times difficult to control the RPi headless, as it can only be communicated via terminal. In the beginning, it was difficult to get used to coding through the terminal, but this issue was solved by the team’s desire to always learn more and now each member can use the terminal to start the Pi. We also purchased a touchscreen LCD for our demo so this will allow easier use of the Pi going forward. 
-
-
 #### Camera
 ![sensor2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor2.jpg?raw=true)
 The camera is used to take snapshots of the robot’s environment to be posted to Twitter as an update tweet upon terminating its route. 
+
+
+#### Circuit Fritzing
+This is a simplified Fritzing diagram of the circuitry and wiring for our robot. 
+![fritzing](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot3.jpg?raw=true)
 
 
 #### Component list
