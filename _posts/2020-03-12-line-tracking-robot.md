@@ -9,8 +9,8 @@ We build a line-following robot using a Raspberry Pi and a PID controller with a
 
 
 ## Overview
-[robot front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot.jpg?raw=true)
-[robot back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot2.jpg?raw=true)
+![robot front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot.jpg?raw=true)
+![robot back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot2.jpg?raw=true)
 
 My team and I built a robot that follows black lines on light surfaces. 
 
@@ -32,7 +32,8 @@ My team and I built a robot that follows black lines on light surfaces.
 
 ## Hardware
 ### Infrared Sensor protoboard
-
+![sensor1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor1.jpg?raw=true)
+![sensor2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor2.jpg?raw=true)
 
 ▪	Specific angle chosen to minimize the effect of shadows cast into the infrared sensors, averaging around 45 degrees for best performance, also allows for extra time before the turn to handle the data read from the sensors since the distance between the wheels and the part of the tape detected is maximized.
 o	Vehicle weight balancing

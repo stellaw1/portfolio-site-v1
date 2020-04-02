@@ -25,5 +25,5 @@ There are a couple positives so far, if I force myself to be positive for a hot 
 From here on, I am going to spend the abundance of free time that I have towards those summer goals, including new projects (I miss coding!) and be conscious of how much time is passing while playing video games. I played stardew valley with my friend for 9 hours straight yesterday without realizing... if that is not a wake up call, I don’t know what is. Hopefully, with this plan, we can work towards some sense of satisfaction amidst this very unsatisfying time period that could potentially lead to the end of the world.
 
 
-A very confused, 
+A very confused, <br>
 Stella

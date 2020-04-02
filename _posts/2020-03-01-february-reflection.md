@@ -35,7 +35,9 @@ Until then, here are some memories from Toronto that I will treasure forever :')
 > Is the thumb of the mitten the cat's paw or tail? 
 
 
-PS. Toronto vlogs are coming soon to my [YouTube channel](https://www.youtube.com/channel/UCt2N5_ti9WrcclByyEC0unw?view_as=subscriber) !
+PS. Toronto vlogs are coming soon to my [YouTube channel](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOk8-cKMv1Z7F0lIy_wrY79H) !
+
+EDIT: 
 
 
 ## Lowlight
@@ -69,10 +71,10 @@ Now, I am able to look at the experience as an important life lesson. It taught 
 
 
 ## March goals
-* Finish editing and uploading Toronto vlogs (upload every Monday)
+* Finish editing and uploading [Toronto vlogs](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOk8-cKMv1Z7F0lIy_wrY79H) (upload every Monday)
 * Research and start a new personal project
 * Re-focus on school and properly learning/ understanding course content 
 
 
-Excited for March, 
+Excited for March, <br>
 Stella
