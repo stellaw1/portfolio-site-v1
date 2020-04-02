@@ -106,16 +106,17 @@ The robot looks for obstacles before and after it starts running, and interrupts
 
 
 ## Reflection
-## Challenges
-This was a very open-ended project, which allowed more freedom and creativity, but also required more responsibility and communication. In earlier stages, it was difficult to figure out equal tasks for each team member, especially because we were not fully set on all of our ideas yet. The process was an iterative one and there were no formulas or guidelines for us to follow closely, and this lead to lots of communication - for large or small steps - during the design process, to ensure that everybody is on the same page and being productive with their time. 
-In the end, each member on our team rotated taking leadership depending on the component that they focused mainly on and where that fit into the design process. For example, teammates in charge of the motor and PID took charge in the earlier stages of the process, while the teammates in charge of the LCD display displayed more leadership towards the later stages in the process.  
-We were able to develop all of our technical skills immensely, with the development of the mobile app, PID controls, and dc motors controls being new to all of us, as well as giving some team member’s the opportunity to better understand concepts our groups implemented in the past, like twitter, graphing, hardware, and sonar, where they may not have had the chance before. 
-We also were somewhat limited in our timeline to fully implement the features we desired, and our team feels that we would have greatly benefited from learning how to add multithreaded streams to our implementation to allow for reading from the sonar, PID updates, and track plotting all at the same time. Another feature we would have learned a lot from was the implementation of a switch which could safely power on and power off the pi through a pure hardware “on” process, and the running of a shell script to turn the pi off and then disconnect the power. Albeit our team is at least satisfied that we can understand the theory behind such features even if we did not get to see them. 
-In short, the most important things we take away from this project are the soft skills we needed to work efficiently, the technical skills and tasks we were able to accomplish, skills we were able to research and understand. These skills will not only carry through to Project 2, but also future projects and jobs we undertake, and in this we find this project's true value.
+This was a very open-ended project, which allowed more freedom and creativity, but also required more responsibility in communication. In earlier stages, it was difficult to fairly divide tasks between a large team. But as our idea for our robot became more concrete, we learned to collaborate better. The process was an iterative one, which lead to lots of communication - for large or small steps - to ensure that everybody is on the same page and being productive with their time. 
+
+We were each able to develop technical skills immensely. With the development of the mobile app, PID controls, and dc motors controls being new to all of us, it came with much research and exploration. As well, we were able to play with some technology that we have worked with in the past, such as twitter API, TkInter graphing, and ultrasonic sonar sensor, etc. 
+
+In short, not only did I develop my technical skills and teamwork skills on this project, I also had lots of fun developing it!
+
 
 
 ## Prototype
 *Video of demo in progress*
+
 
 
 ## References
@@ -124,6 +125,7 @@ https://github.com/ivmech/ivPID - main reference used for PID development
 https://twitter.com/cpen291team11 - our team’s twitter account where tweets & photos are sent
 
 
-## Credits
+
+## Credit
 Built with [Arnold](https://arnoldying.github.io), Rain, Amir, Parsa, Sanjeev, and Manek. 
 
