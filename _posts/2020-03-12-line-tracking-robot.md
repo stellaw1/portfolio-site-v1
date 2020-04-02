@@ -28,6 +28,7 @@ The headless Pi is used as the main CPU for the PID and the motors. It is attach
 
 #### Infrared Sensor protoboard
 ![sensor1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor1.jpg?raw=true)
+![sensor2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor2.jpg?raw=true)
 
 We mounted and saudered reflective optical sensors at a specific angle chosen to minimize the effect of shadows cast, around 45 degrees. The placement of the inner sensors are at exactly tape width apart, such that ideally if the robot was directly on the black line, the inner sensors are direcly above the connection between the black and white (aka tape and floor), while the outer sensors read white (floor). A 100 Ohm resistor was connected to each Digital in pin on each sensor and a 4100 Ohm resistor connected to the 5V pin on the Motor Hat. This ratio was chosen to maintain the recommended circuit while increasing the power to the circuit at a safe level.
 
