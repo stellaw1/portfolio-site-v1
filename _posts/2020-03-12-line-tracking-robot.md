@@ -2,11 +2,17 @@
 layout: post
 title: Line Tracking Robot
 tags: completedproject
-image: dancing-robot.jpg
+image: linerobot.jpg
 ---
 
-CPEN 291 course project built with [Arnold](https://arnoldying.github.io), Rain, Amir, Parsa, Sanjeev, and Manek. 
+We build a line-following robot using a Raspberry Pi and a PID controller with additional functionalities for a CPEN 291 course project. 
 
+
+## Overview
+[robot front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot.jpg?raw=true)
+[robot back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot2.jpg?raw=true)
+
+My team and I built this robot that follows black lines on light surfaces. The fundamental part of the robot consists of a Raspberry Pi, a 
 
 For the reflective optical sensors, we used a 100 Ohm resistor connected to the Digital in pin and a 4100 Ohm resistor connected to the 5V pin. This ratio was chosen to maintain the recommended circuit but to increase the power to the circuit at a safe level that will operate well under our otherwise low power drawing conditions. In total, we used 4 reflective optical sensors for our robot.  They are used as sensors to support our PID controller that detects whether the robot is aligned with the track. 
 The four sensors are configured in two pairs that are situated tape-width apart - approximately 1 cm (See Appendix G-1 for diagram). This way, if the inner sensors detect black while the outer detect white, the robot is following the line. If both sensors in the right pair detect black while both sensors in the left pair detect white, then the robot is straying left, and vice versa for straying right. 
@@ -112,3 +118,7 @@ Component list
 -	Ultrasonic Sensor
 -	5x AAA Batteries
 -	Android phone
+
+## Credits
+Built with [Arnold](https://arnoldying.github.io), Rain, Amir, Parsa, Sanjeev, and Manek. 
+

@@ -5,7 +5,7 @@ tags: completedproject
 image: dancing-robot.jpg
 ---
 
-CPEN 291 course project built with [Arnold](https://arnoldying.github.io/project/dancing-biped-robot.html), Rain, Amir, Parsa, Sanjeev, and Manek. 
+Built a dancing biped robot with [Arnold](https://arnoldying.github.io/project/dancing-biped-robot.html), Rain, Amir, Parsa, Sanjeev, and Manek for a CPEN 291 course mini project. 
 
 
 ## Functionality
