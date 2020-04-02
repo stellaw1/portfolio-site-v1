@@ -38,7 +38,7 @@ Sensors are sampled at a rate of 3000 Hz, namely approximately every 1/3000 seco
 
 
 #### Camera
-![sensor2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor2.jpg?raw=true)
+![camera](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot6.jpg?raw=true)
 The camera is used to take snapshots of the robot’s environment to be posted to Twitter as an update tweet upon terminating its route. 
 
 
