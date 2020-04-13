@@ -29,5 +29,8 @@ Using the Graph ADT, we developed a 'gathering' and 'seeking' method for Milleni
 <h2> Part 3: </h2>
 We used a GUI in IntelliJ to test and verify the efficiency and accuracy of our methods and used Gradle to test our code.  
 
+## Code
+[GitHub repo](https://github.com/CPEN-221-2019/f19-mp2-stellaw1-davidw0311) is private for academic policy issues
+
 ## Lessons
 Learnt about graph theory (nodes, edges, and weight) and various algorithms, such as Dijkstra's shortest path algorithm and Kruskal's minimum spanning tree algorithm. 
