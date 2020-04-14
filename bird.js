@@ -8,6 +8,10 @@ var bg = new Image();
 bird.src = "{{site.baseurl}}/images/flappybird/bird.png";
 bg.src = "{{site.baseurl}}/images/flappybird/bg.png";
 
+//Define variables
+var x = 10;
+var y = 150;
+var gravity = 1.5;
 
 function draw() {
     ctx.fillStyle = "#70c5ce";
