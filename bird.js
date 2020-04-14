@@ -5,8 +5,8 @@ const ctx = cvs.getContext("2d");
 var bird = new Image();
 var bg = new Image();
 
-bird.src = "{{site.baseurl}}/images/flappybird/bird.png";
-bg.src = "{{site.baseurl}}/images/flappybird/bg.png";
+bird.src = "images/flappybird/bird.png";
+bg.src = "images/flappybird/bg.png";
 
 //Define variables
 var x = 10;
@@ -17,7 +17,7 @@ function draw() {
     ctx.fillStyle = "#70c5ce";
     ctx.fillRect(0, 0, cvs.clientWidth, cvs.height);
     
-    ctx.drawImage(bg, 0, 0, 320, 400, 0, 0, 400, 400);
+    ctx.drawImage(bg, 0, 0, 320, 400, 0, 0, 320, 400);
     ctx.drawImage(bird, 0, 0, 38, 26, x, y, 38, 26);
 }
 
