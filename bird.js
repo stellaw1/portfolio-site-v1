@@ -1,10 +1,12 @@
 const cvs = document.getElementById("myCanvas");
 const ctx = cvs.getContext("2d");
 
-//const sprite = new Image();
-//sprite.src = "img/sprite.png";
+//instantite images
+var bird = new Image();
+var bg = new Image();
 
-//ctx.drawImage(sprite, sX, sY, sWidth, sHeight, dX, dY, dWidth, dHeight);
+bird.src = "images/flappybird/bird.png";
+bg.src = "images/flappybird/bg.png";
 
 
 function draw() {
