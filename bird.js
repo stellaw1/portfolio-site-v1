@@ -5,8 +5,8 @@ const ctx = cvs.getContext("2d");
 var bird = new Image();
 var bg = new Image();
 
-bird.src = "{{site.baseurl}}images/flappybird/bird.png";
-bg.src = "{{site.baseurl}}images/flappybird/bg.png";
+bird.src = "{{site.baseurl}}/images/flappybird/bird.png";
+bg.src = "{{site.baseurl}}/images/flappybird/bg.png";
 
 
 function draw() {
