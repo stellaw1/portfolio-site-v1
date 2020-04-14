@@ -10,6 +10,9 @@ const ctx = cvs.getContext("2d");
 function draw() {
     ctx.fillStyle = "#70c5ce";
     ctx.fillRect(0, 0, cvs.clientWidth, cvs.height);
+    
+    ctx.drawImage(bg, 0, 0, 320, 400, 0, 0, 400, 400);
+    ctx.drawImage(bird, 0, 0, 38, 26, x, y, 38, 26);
 }
 
 function loop() {
