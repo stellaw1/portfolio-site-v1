@@ -51,7 +51,7 @@ My dilemma was between choosing the safer route (secure a job first and be grate
 
 In the end, I could not fully justify either choice; it was one of those situations that you have no idea how it will play out. You just have to pick one and be okay with it. After my interview, I thought I had butchered it, so, feeling unconfident, I ended up accepting the position at company A. And, for the following two weeks, I was happy with my decision.
 
-Then, on the first day of reading break, I received an email - a job offer at company B, and I just broke down. Never would I ever have thought that I would be so devastated to receive a job offer. I was wrapped up around the thought that I had made the wrong choice and that a major opportunity was missed. “Why didn’t I foresee this,” I would think to myself.
+Then, on the first day of reading break, I received an email - a job offer at company B, and I just broke down. Never would I ever have thought that I would be so devastated to receive a job offer; I was wrapped up around the thought that I had made the wrong choice and that a major opportunity was missed. “Why didn’t I foresee this,” I would think to myself.
 
 Now, I am able to look at the experience as an important life lesson. It taught me that nothing is perfect and not everything always plays out the way you want it to. Unfortunate timing and a lack of confidence lead to a missed opportunity this time, but I came out of it with a stronger sense of self and more concrete goals. I am confident that my next seeking term will be even more fulfilling. Plus, if I hadn’t accepted the first offer, I wouldn’t have visited Toronto this month, and that experience in and of itself was worth it.
 
