@@ -40,5 +40,5 @@ I had an idea to create a subscription list for these blog posts to 1. share my 
 
 
 
-Looking forward to a productive summer, <br>
+Welcome to June, <br>
 Stella
