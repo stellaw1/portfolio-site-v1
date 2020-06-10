@@ -25,18 +25,17 @@ I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https
   <summary>Cory's show and tell, Python unit testing</summary>
   <p>
 
-  <h4> Date: June 10th, 2020 </h4> <br>
-
-  <h3> Notes </h3> <br>
-
-  * unit test vs integration test
-  * asswertEqual same as Java
-  * virtual environment for python
-  * monkey patching using 'mock' library
-  * dependency inheritance
-  * principle of competition over inheritance
-  * eg, application for using mock = mock database for local testing
-
+  <h6> Date: June 10th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>unit test vs integration test</li>
+    <li>asswertEqual same as Java</li>
+    <li>virtual environment for python</li>
+    <li>monkey patching using 'mock' library</li>
+    <li>dependency inheritance</li>
+    <li>principle of competition over inheritance</li>
+    <li>eg, application for using mock = mock database for local testing</li>
+  </ul>
   </p>
 </details>
 
@@ -46,8 +45,7 @@ I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https
   <summary>Orientation Hackathon</summary>
   <p>
 
-  <h4> Date: June 1st~5th, 2020</h4><br>
-
+  <h6> Date: June 1st~5th, 2020</h6>
   For the first week of the fellowship, I worked on an exciting project revolving the BLM movement with Amir and Parthiv. I loved the end product we produced and enjoyed my time working with my fellow podmates
 
   </P>
@@ -57,13 +55,13 @@ I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https
   <summary>Random</summary>
   <p>
 
-  <h4> Date: June 1st, 2020</h4><br>
+  <h6> Date: June 1st, 2020</h6>
   Meeting people for the first time ever on Zoom was a strange experience, and I can't imagine what any of my podmates would be like if we ever met in person. Many nuances and traits are lost through virtual videocalling as opposed to an in person meeting (Eg, small habits, height, voice, etc)<br>
   
-  <h4> Date: June 8th, 2020 </h4><br>
+  <h6> Date: June 8th, 2020 </h6>
   MLH really likes to ask the question, "What is your favourite project that you've worked on?" and my answer always comes back to this website - not becuase it is technically impressive or graphically beautiful, but because of the ability for me to come back here continually to document how I've been growing/ highlights/ etc<br>
   
-  <h4> Date: June 10th, 2020 </h4> <br>
+  <h6> Date: June 10th, 2020 </h6>
   My mentor, Cory, is the coolest! He has pet chickens and considers chocolate fruit (& therefore Nutella jam)<br>
 
   </p>
