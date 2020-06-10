@@ -4,7 +4,8 @@ title: MLH Fellowship Log [Ongoing]
 tags: blog
 ---
 
-I spent my summer 2020 as a remote fellow for the MLH Fellowship program, and wanted to document the abundance of skills I learnt. 
+I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https://fellowship.mlh.io/students), and wanted to document the abundance of skills I learnt. 
+
 
 
 ## Journal
