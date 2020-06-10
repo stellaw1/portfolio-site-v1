@@ -115,6 +115,12 @@ hr {
   margin: 1.5em auto;
 }
 
+details {
+  background-color: fade-out($color: #7a1c1c, $amount: 1);
+  padding-bottom: 1em;
+}
+
+
 // Yeun's list style
 // https://gist.github.com/yeun/d824fc7b04b756508f4b0143535cec30
 
