@@ -36,6 +36,29 @@ I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https
     <li>principle of competition over inheritance</li>
     <li>eg, application for using mock = mock database for local testing</li>
   </ul>
+  <h5> To Do </h5>
+  <ul>
+    <li>[unit test vs integration test](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)</li>
+  </ul>
+  </p>
+</details>
+
+<details>
+  <summary>Amir's show and tell, Docker</summary>
+  <p>
+
+  <h6> Date: June 17th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>Docker is a tool that makes it easier to code software by using containers - similar to VM</li>
+    <li>'sudo' in Linux is "super user do"</li>
+    <li>'cp' is copy</li>
+    <li>container is an instance of an image</li>
+    <li>'docker run' on an image to bring up a contianer</li>
+    <li>Use Cases (to get to know Docker and its industry applications): https://www.docker.com/use-cases
+Getting started with Docker (pretty comprehensive guide on a lot of Docker stuff): https://docker-curriculum.com/
+Creating Docker Images (both from an exisitng container and from scratch): https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/</li>
+  </ul>
   </p>
 </details>
 
