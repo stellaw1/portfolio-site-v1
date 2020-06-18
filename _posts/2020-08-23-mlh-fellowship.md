@@ -6,7 +6,12 @@ tags: blog
 
 I spent my summer 2020 as a remote fellow for the [MLH Fellowship program](https://fellowship.mlh.io/students), and wanted to document the abundance of skills I learnt. 
 
-![mlh fellowship banner](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/mlh-fellowship.jpg?raw=true)
+![mlh fellowship banner](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/mlh-social-card.jpg?raw=true)
+
+
+## Current project: Circuit Python
+The epotime of this fellowship is to collaborate to contribute to open source projects, such as Circuit Python. As I indicated interest in hardware development, I was assigned to Circuit Python. Our first project is to improve features on an app named 'glider' that acts as a Python code editor for mobile devices. The first week was dedicated to setting up my app development environment (Android studio, react native, node JS, etc), while the second week was spent waiting for hardware to arrive...
+
 
 ## Journal
 *June 5th* - Submitted hackathon project, and was voted best project in my pod<br>
