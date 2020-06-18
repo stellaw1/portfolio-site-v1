@@ -28,7 +28,7 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 ## Workshops
 <details>
   <summary><b>Cory's show and tell, Python unit testing</b></summary>
-  <p>
+  <div>
 
   <h6> Date: June 10th, 2020 </h6>
   <h5> Notes </h5>
@@ -45,12 +45,12 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
   <ul>
     <li>[unit test vs integration test](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)</li>
   </ul>
-  </p>
+  </div>
 </details>
 
 <details>
   <summary><b>Amir's show and tell, Docker</b></summary>
-  <p>
+  <div>
 
   <h6> Date: June 17th, 2020 </h6>
   <h5> Notes </h5>
@@ -64,24 +64,24 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 Getting started with Docker (pretty comprehensive guide on a lot of Docker stuff): https://docker-curriculum.com/
 Creating Docker Images (both from an exisitng container and from scratch): https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/</li>
   </ul>
-  </p>
+  </div>
 </details>
 
 
 ## Highlights
 <details>
   <summary><b>Orientation Hackathon</b></summary>
-  <p>
+  <div>
 
   <h6> Date: June 1st~5th, 2020</h6>
   For the first week of the fellowship, I worked on an exciting project revolving the BLM movement with Amir and Parthiv. I loved the end product we produced and enjoyed my time working with my fellow podmates
 
-  </P>
+  </div>
 </details>
 
 <details>
   <summary><b>Random</b></summary>
-  <p>
+  <div>
 
   <h6> Date: June 1st, 2020</h6>
   Meeting people for the first time ever on Zoom was a strange experience, and I can't imagine what any of my podmates would be like if we ever met in person. Many nuances and traits are lost through virtual videocalling as opposed to an in person meeting (Eg, small habits, height, voice, etc)<br>
@@ -92,7 +92,7 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   <h6> Date: June 10th, 2020 </h6>
   My mentor, Cory, is the coolest! He has pet chickens and considers chocolate fruit (& therefore Nutella jam)<br>
 
-  </p>
+  </div>
 </details>
 
 
