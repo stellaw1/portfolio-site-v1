@@ -373,13 +373,15 @@ img {
   font-weight: bold;
   font-size: 38px;
   letter-spacing: 1px;
+  font-style: italic;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 12px;
   font-family: $head-font;
+  font-style: italic;
 
   @include mobile {
     margin: 3px 0;
@@ -390,7 +392,9 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $head-font;
-  font-size: 22px;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
 
   @include mobile {
     float: none;
