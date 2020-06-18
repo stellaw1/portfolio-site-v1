@@ -27,7 +27,7 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 
 ## Workshops
 <details>
-  <summary>Cory's show and tell, Python unit testing</summary>
+  <summary><h4>Cory's show and tell, Python unit testing</h4></summary>
   <p>
 
   <h6> Date: June 10th, 2020 </h6>
@@ -49,7 +49,7 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 </details>
 
 <details>
-  <summary>Amir's show and tell, Docker</summary>
+  <summary><h4>Amir's show and tell, Docker</h4></summary>
   <p>
 
   <h6> Date: June 17th, 2020 </h6>
@@ -70,7 +70,7 @@ Creating Docker Images (both from an exisitng container and from scratch): https
 
 ## Highlights
 <details>
-  <summary>Orientation Hackathon</summary>
+  <summary><h5>Orientation Hackathon</h5></summary>
   <p>
 
   <h6> Date: June 1st~5th, 2020</h6>
@@ -80,7 +80,7 @@ Creating Docker Images (both from an exisitng container and from scratch): https
 </details>
 
 <details>
-  <summary>Random</summary>
+  <summary><h5>Random</h5></summary>
   <p>
 
   <h6> Date: June 1st, 2020</h6>

@@ -64,17 +64,17 @@ h3 {
 
 h4 {
   font-size: 24px;
-  color: $base-lighten-color;
+  color: $darkerGray;
 }
 
 h5 {
   font-size: 22px;
-  color: $base-lighten-color;
+  color: $darkGray;
 }
 
 h6 {
   font-size: 20px;
-  color: $base-lighten-color;
+  color: $gray;
 }
 
 p {
@@ -116,8 +116,8 @@ hr {
 }
 
 details {
-  background-color: rgba(180, 180, 180, 0.836);
-  padding-bottom: 1em;
+  background-color: rgba(207, 226, 240, 0.925);
+  padding-bottom: 5em;
 }
 
 
