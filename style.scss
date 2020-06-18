@@ -116,8 +116,11 @@ hr {
 }
 
 details {
-  background-color: rgba(207, 226, 240, 0.925);
-  padding-bottom: 5em;
+  p {
+    background-color: rgba(207, 226, 240, 0.925);
+  }
+  
+  padding-bottom: 2em;
 }
 
 
