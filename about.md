@@ -11,7 +11,7 @@ My name is Stella Wang, and I am a third year computer engineering student at th
 
 ## What am I up to right now?
 ###### Updated: June 25th
-For the summer of 2020, I am and will be contributing to open source projects on GitHub as an [MLH Fellow](https://fellowship.mlh.io/students). I am working with a team of 10 fellows, including myself, plus one mentor - Cory. Furthermore, I have been assigned to contribute to Circuit Python by closing issues, editing documentation, and improving features. Two of my podmates and I are currently working on developing a mobile app, named glider, which acts as a mobile code editor when working with Circuit Python on Adafruit hardware. 
+For the summer of 2020, I am and will be contributing to open source projects on GitHub as an [MLH Fellow](https://fellowship.mlh.io/students). I am working with a team of 10 fellows, including myself, plus one mentor - Cory. Furthermore, I have been assigned to contribute to [Circuit Python](https://github.com/adafruit/circuitpython) by closing issues, editing documentation, and improving features. Two of my podmates and I are currently working on developing a mobile app, named [glider](https://github.com/adafruit/glider), which acts as a mobile code editor when working with Circuit Python on Adafruit hardware. 
 
 ## Career Interests
 - Software development of cyber security in online banking
