@@ -108,6 +108,9 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   <h6> Date: June 10th, 2020 </h6>
   My mentor, Cory, is the coolest! He has pet chickens and considers chocolate fruit (& therefore Nutella jam)<br>
 
+  <h6> Date: June 25th, 2020 </h6>
+  Random, interesting, trivial bug in python: where `f = lambda: 1` outputs `1` whereas `fs = {;ambda: x for x in range(10)}` outputs all `9`s. Solved this by `fn = {;ambda y=x: y for x in range(10)` <br>
+
   </div>
 </details>
 

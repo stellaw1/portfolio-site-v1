@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment Scheduler
-tags: project
+tags: completedproject
 image: scheduler.jpg
 ---
 
