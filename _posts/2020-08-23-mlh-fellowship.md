@@ -17,12 +17,14 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 *June 5th* - Submitted hackathon project, and was voted best project in my pod<br>
 *June 9th* - Finally placed the order for a monitor and keyboard - next step, save up for new PC !<br>
 *June 10th* - Diving deep into the code base for CircuitPython, and struggling to write/ test code without proper hardware<br>
+*June 22nd* - Got my glider app running on an android device after weeks of waiting for hardware and debugging!<br>
 
 
 ## Skills
 *Python* - <br>
 *GitHub* - Pull Requests, Issues, Branching, Merging<br>
 *MongoDB* - local database, PyMongo, Flask frontend<br>
+*React Native* - deployment and development for android apps
 
 
 ## Workshops
@@ -63,6 +65,20 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
     <li>Use Cases (to get to know Docker and its industry applications): https://www.docker.com/use-cases
 Getting started with Docker (pretty comprehensive guide on a lot of Docker stuff): https://docker-curriculum.com/
 Creating Docker Images (both from an exisitng container and from scratch): https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/</li>
+  </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>Mini Hackathon - Conway's game of life</b></summary>
+  <div>
+
+  <h6> Date: June 24th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>This was an interesting show and tell of the week. My podmates and I got to collaborate and develop a solution for [Conway's game of life](http://pi.math.cornell.edu/~lipa/mec/lesson6.html) in Python. </li>
+    <li>The goal of this hackathon was let us become more familiar with git commands - such as branching, issues, pr, etc - since the majority of our pod spent the majority of the first two weeks awaiting hardware.  </li>
+    <li>Python is not my main coding language (I have made 2? projects in python), so I was proud to have written a solution that even runs within an hour... after stealing some code from podmates of course (we were allowed to!)</li>
   </ul>
   </div>
 </details>
