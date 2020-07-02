@@ -83,6 +83,19 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   </div>
 </details>
 
+<details>
+  <summary><b>Kaela's show and tell, Bluetooth Low Energy</b></summary>
+  <div>
+
+  <h6> Date: July 1st, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>focuses on smaller, more novel devices</li>
+    <li>consume less resources</li>
+  </ul>
+  </div>
+</details>
+
 
 ## Highlights
 <details>
