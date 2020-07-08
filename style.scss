@@ -675,6 +675,11 @@ footer {
     svg {
       height: 40px;
       width: 40px;
+
+      @include mobile {
+        height: 30px;
+        width: 30px;
+      }
     }
 
     em {
