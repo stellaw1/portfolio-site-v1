@@ -18,13 +18,14 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 *June 9th* - Finally placed the order for a monitor and keyboard - next step, save up for new PC !<br>
 *June 10th* - Diving deep into the code base for CircuitPython, and struggling to write/ test code without proper hardware<br>
 *June 22nd* - Got my glider app running on an android device after weeks of waiting for hardware and debugging!<br>
+*July 2nd* - Start research & development into adding colour wheel feature to glider<br>
 
 
 ## Skills
-*Python* - <br>
+*Python* - getting more familiar with syntax<br>
 *GitHub* - Pull Requests, Issues, Branching, Merging<br>
 *MongoDB* - local database, PyMongo, Flask frontend<br>
-*React Native* - deployment and development for android apps
+*React Native* - development/ deployment, new libraries
 
 
 ## Workshops
@@ -122,7 +123,7 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   My mentor, Cory, is the coolest! He has pet chickens and considers chocolate fruit (& therefore Nutella jam)<br>
 
   <h6> Date: June 25th, 2020 </h6>
-  Random, interesting, trivial bug in python: where `f = lambda: 1` outputs `1` whereas `fs = {;ambda: x for x in range(10)}` outputs all `9`s. Solved this by `fn = {;ambda y=x: y for x in range(10)` <br>
+  Random, interesting, trivial bug in python: where `f = lambda: 1` outputs `1` whereas `fs = {;ambda: x for x in range(10)}` outputs all `9`s. Solved this by `fn = {lambda y=x: y for x in range(10)` <br>
 
   </div>
 </details>
