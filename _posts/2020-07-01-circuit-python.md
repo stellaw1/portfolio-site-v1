@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circuit Python - open source contribution
+title: Circuit Python contribution
 tags: plannedproject
 image: Blinka.png
 ---
