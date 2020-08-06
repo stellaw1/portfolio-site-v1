@@ -97,15 +97,66 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   </div>
 </details>
 
+<details>
+  <summary><b>Darren's show and tell, Embedded Linux and Electronics</b></summary>
+  <div>
+
+  <h6> Date: July 8th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>Embedded Ssytem: specific and dedicated applications; processing power, memory, storage are limited; part of a larger system with sensors; reliability is crucial</li>
+    <li>embedded linux === linux</li>
+    <li>basic commands: echo = repeats argument to console; touch = creates file; cat = read content of file; redirect (>) = reroutes output to destsination; </li>
+    <li>shell commands: chmod = change mod; execute (./) = runs an executable file; read ($) = show contents of variable; arithmetic ( $(()) ) = to do operations on variables; loops; if; variables have no type but spacing matters </li>
+    <li>shell command file (.sh): "stores multiple commands that you can run at once"</li>
+    <li>GPIO: "General Purpose Input/ Output; output can apply voltage or no voltage, input can detect voltage or no voltage"</li>
+    <li>sysfs: a pseudo file system that can access GPIO </li>
+  </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>My show and tell, Beginner Game Dev</b></summary>
+  <div>
+
+  <h6> Date: August 5th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>Shared a simple tutorial on how to work with Godot to create 2D games using skills I learnt from making our hackathon project - [Fellow Crossing](https://github.com/stellaw1/fellow-crossing)</li>
+  </ul>
+  </div>
+</details>
+
+
+
 
 ## Highlights
 <details>
-  <summary><b>Orientation Hackathon</b></summary>
+  <summary><b>Orientation Hackathon: BLM Tracker</b></summary>
   <div>
 
   <h6> Date: June 1st~5th, 2020</h6>
   For the first week of the fellowship, I worked on an exciting project revolving the BLM movement with Amir and Parthiv. I loved the end product we produced and enjoyed my time working with my fellow podmates
 
+  </div>
+</details>
+
+<details>
+  <summary><b>Halfway Hackathon: Fellow Crossing</b></summary>
+  <div>
+
+  <h6> Date: July 13~17th, 2020</h6>
+  Halfway through the fellowship, MLH hosted another week long hackathon. This time, I teamed up with Kanav, Ruby, and Nabanita to build a game aimed to foster connections between fellows despite the lack of in person interactions. We made an online, multiplayer game inspired by Animal Crossing. Our game ended up winning "Best Community Building Project"! Checkout the submission [here](https://devpost.com/software/fellow-crossing), play game [here](https://stellaw1.itch.io/fellow-crossing) or review the code [here](https://github.com/stellaw1/fellow-crossing). 
+
+  </div>
+</details>
+
+<details>
+  <summary><b>Adafruit Glider progress</b></summary>
+  <div>
+
+  <h6> Date: August 4th, 2020</h6>
+  Submitted my [PR for glider](https://github.com/adafruit/glider/pull/12) and got merged!
   </div>
 </details>
 
@@ -124,6 +175,9 @@ Creating Docker Images (both from an exisitng container and from scratch): https
 
   <h6> Date: June 25th, 2020 </h6>
   Random, interesting, trivial bug in python: where `f = lambda: 1` outputs `1` whereas `fs = {;ambda: x for x in range(10)}` outputs all `9`s. Solved this by `fn = {lambda y=x: y for x in range(10)` <br>
+
+  <h6> Date: August 6th, 2020 </h6>
+  Mentor Q&A that provided a lot of insight into the tech work force and started some important debates about important happenings in our current society (ie, coronavirus, stereotypes, etc) <br>
 
   </div>
 </details>

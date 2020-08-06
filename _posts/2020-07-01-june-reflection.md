@@ -27,7 +27,7 @@ Regarding work, I've been logging that progress in a separate post. There have b
 ## Goals
  * Push 1+ feature to glider by the end of July
  * Perfect our pod's clap by the end of August
- * Hit 50k by 2021
+ * Hit 40k by 2021
 
 
 Happy with life, <br>

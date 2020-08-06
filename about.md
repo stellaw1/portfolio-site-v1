@@ -35,5 +35,5 @@ For the summer of 2020, I am and will be contributing to open source projects on
 - Sports (Soccer, Volleyball, Kickboxing)
 - Traveling - *check out my travel vlogs on youtube!*
 
-### Contact me
-*linked below*
+## Contact me
+##### *linked below*
