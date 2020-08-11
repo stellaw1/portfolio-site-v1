@@ -25,7 +25,7 @@ The epotime of this fellowship is to collaborate to contribute to open source pr
 *Python* - getting more familiar with syntax<br>
 *GitHub* - Pull Requests, Issues, Branching, Merging<br>
 *MongoDB* - local database, PyMongo, Flask frontend<br>
-*React Native* - development/ deployment, new libraries
+*React Native* - development/ deployment, new libraries, creating projects from scratch
 
 
 ## Workshops
