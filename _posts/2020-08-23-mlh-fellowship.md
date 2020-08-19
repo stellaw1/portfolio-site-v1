@@ -127,6 +127,18 @@ Creating Docker Images (both from an exisitng container and from scratch): https
   </div>
 </details>
 
+<details>
+  <summary><b>Prabhanshu's show and tell, Samwise</b></summary>
+  <div>
+
+  <h6> Date: August 12th, 2020 </h6>
+  <h5> Notes </h5>
+  <ul>
+    <li>Samwise is a server that purges URL Tracking using Nodejs and DNS rewriting</li>
+  </ul>
+  </div>
+</details>
+
 
 
 
