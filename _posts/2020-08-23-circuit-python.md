@@ -35,6 +35,8 @@ Glider is a react native mobile app (iOS and Android) that acts as a code editor
  * I began tackling this issue by learning to create react native apps from scratch
  * I created a test project that allowed me to test different colour wheel libraries and decide which is most fitting for glider
  * ASIDE: `create-react-app <project-name>` to create react apps and `npx react-native init <project-name>` to create react native apps
+ * Added a simple [color palette library](https://www.npmjs.com/package/@iomechs/rn-color-palette) to glider
+ * Added a click to copy to clipboard feature using a [Clipboard library](https://www.npmjs.com/package/@iomechs/rn-color-palette)
 
 ### Reflection
 In the beginning phase of onboarding this project, the majority of my time was devoted to learning react native syntax and familiarizing myself with the codebase. I remember I would feel so lost in the beginning, being new to app development. I remembered countless people giving me the tip to "not be afraid to ask questions," and so I did. I asked my mentor questions, I asked teammates questions, I asked the project maintainer questions... And now, I can confidently say I can work with the codebase and actually do not want to let go of this project. I definitely want to continue contributing to this project, as it is intersting, taught me new skills, and the maintainer is super kind and patient with us. 
