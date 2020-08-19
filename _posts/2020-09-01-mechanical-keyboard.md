@@ -2,7 +2,7 @@
 layout: post
 title: Custom Mechanical Keyboard
 tags: completedproject
-image: project2.png
+image: kb1.JPG
 ---
 
 
@@ -11,7 +11,7 @@ As I say... Everyone needs an expensive hobby :)
 
 # Summary
 Sooo I have been talking about building a custom keyboard from scratch for the longest time, and finally put the order in during quarantine. I chose a Ten Key Less (TKL) layout, hot swappable PCB, and Gateron Brown switches. I will link the exact parts/ stores I ordered from below. The total for my keyboard was around $170, but it did take almost two months for all the parts to ship. Overall, I am very happy with the final build :)
-
+![finished product](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb3.JPG?raw=true)
 
 # Build Process
 ### Step 1 - Order
