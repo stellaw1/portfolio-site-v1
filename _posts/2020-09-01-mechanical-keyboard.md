@@ -21,29 +21,30 @@ Do you research on what size/ layout/ switches/ etc that you want for your keybo
 When the parts arrive, you first have to check that there are no defects. Specifically, there are softwares that either come with the PCB or can be found online, used to check that the PCB is printed properly. If everything looks good, you can move on to building the keyboard. 
 
 ### Step 3 - Build
-1) Separate case into top case and bottom case
+**1)** Separate case into top case and bottom case
 
-2) Assemble stabilizers (tutorial [here](https://www.youtube.com/watch?v=D21Ocg9kVsU))
+**2)** Assemble stabilizers (tutorial [here](https://www.youtube.com/watch?v=D21Ocg9kVsU))
 
-3) Insert stabilizers into PCB (if yours are PCB mounted too)
+**3)** Insert stabilizers into PCB (if yours are PCB mounted too)
 
-4) Align plate on top of PCB
+**4)** Align plate on top of PCB 
+![ST5](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb21.jpg?raw=true)
 
-5) Insert switches into plate and PCB
+**5)** Insert switches into plate and PCB
 ![ST5](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb13.jpg?raw=true)
 
-6) Check that switches are inserted properly using keyboard testing software
+**6)** Check that switches are inserted properly using keyboard testing software
 
-7) Place assembled PCB into bottom case
+**7)** Place assembled PCB into bottom case
 
-8) Cover the top case and click into place
+**8)** Cover the top case and click into place
 ![ST8](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb18.JPG?raw=true)
 
-9) Cap the switches with keycaps
+**9)** Cap the switches with keycaps
 ![ST9-1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb14.jpg?raw=true)
 ![ST9-2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb20.jpg?raw=true)
 
-10) Completion!
+**10)** Completion!!
 ![keyboard](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb12.JPG?raw=true)
 ![desk space](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb16.jpg?raw=true)
 
@@ -52,17 +53,27 @@ When the parts arrive, you first have to check that there are no defects. Specif
 
 
 # Parts
-**PCB/Case/Stabilizer:** [link](https://www.aliexpress.com/item/33028638867.html?spm=a2g0o.cart.0.0.47ef3c00Im9sn9&gps-id=shopcart_buyagain&scm=1007.13440.139630.0&scm_id=1007.13440.139630.0&scm-url=1007.13440.139630.0&pvid=1f753d2f-7cb0-4624-8b02-38a994d4f980)
+**PCB/Case/Plate/Stabilizer:** 80% TKL Layout Kit [link](https://www.aliexpress.com/item/33028638867.html?spm=a2g0o.cart.0.0.47ef3c00Im9sn9&gps-id=shopcart_buyagain&scm=1007.13440.139630.0&scm_id=1007.13440.139630.0&scm-url=1007.13440.139630.0&pvid=1f753d2f-7cb0-4624-8b02-38a994d4f980)
 
+###### XD87 Hot Swappable PCB with underglow LED
 ![PCB front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb5.jpg?raw=true)
 ![PCB back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb6.jpg?raw=true)
+
+###### Ten Key Less layout plastic case - Black
 ![Case](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb4.jpg?raw=true)
+
+###### Stainless steel plate
+![Plate](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb8.jpg?raw=true)
+
+###### GH60 PCB mounted Stabilizers
 ![Stabilizers](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb9.jpg?raw=true)
 
 **Switches:** [link](https://www.aliexpress.com/item/32980039972.html?spm=a2g0s.9042311.0.0.39e54c4d75xyGK)
 
+###### Gateron Brown switches
 ![Switches](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb7.jpg?raw=true)
 
 **Keycaps:** [link](https://www.banggood.com/104-Key-Translucent-PBT-Keycaps-Matte-Texture-Keycap-Set-Color-Matching-for-Mechanical-Keyboard-p-1580724.html?rmmds=detail-left-hotproducts__3&ID=6157196&cur_warehouse=CN)
 
+###### 104 Key Translucent PBT Keycaps
 ![Keycaps](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb10.jpg?raw=true)
