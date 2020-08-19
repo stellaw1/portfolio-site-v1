@@ -26,17 +26,34 @@ When the parts arrive, you first have to check that there are no defects. Specif
 3) Insert stabilizers into PCB (if yours are PCB mounted too)
 4) Align plate on top of PCB
 5) Insert switches into plate and PCB
+![finished product](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb13.JPG?raw=true)
 6) Check that switches are inserted properly using keyboard testing software
-7) Cap the switches with keycaps
-8) Place assembled PCB into bottom case
-9) Cover the top case and click into place
+7) Place assembled PCB into bottom case
+8) Cover the top case and click into place
+![finished product](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb18.JPG?raw=true)
+9) Cap the switches with keycaps
+![finished product](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb14.JPG?raw=true)
+![finished product](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb20.JPG?raw=true)
 10) Completion!
+![desk space](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb12.JPG?raw=true)
+![desk space](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb16.JPG?raw=true)
+
+### Step 4 - Flash 
+*The firmware that came with the PCB I ordered is a little buggy, so I'm still working through this step. Looking for alternative flashing software*
 
 
 # Parts
 **PCB/Case/Stabilizer:** https://www.aliexpress.com/item/33028638867.html?spm=a2g0o.cart.0.0.47ef3c00Im9sn9&gps-id=shopcart_buyagain&scm=1007.13440.139630.0&scm_id=1007.13440.139630.0&scm-url=1007.13440.139630.0&pvid=1f753d2f-7cb0-4624-8b02-38a994d4f980
 
+![PCB front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb5.JPG?raw=true)
+![PCB back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb6.JPG?raw=true)
+![Case](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb4.JPG?raw=true)
+![Stabilizers](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb9.JPG?raw=true)
+
 **Switches:** https://www.aliexpress.com/item/32980039972.html?spm=a2g0s.9042311.0.0.39e54c4d75xyGK
+
+![Switches](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb7.JPG?raw=true)
 
 **Keycaps:** https://www.banggood.com/104-Key-Translucent-PBT-Keycaps-Matte-Texture-Keycap-Set-Color-Matching-for-Mechanical-Keyboard-p-1580724.html?rmmds=detail-left-hotproducts__3&ID=6157196&cur_warehouse=CN
 
+![Keycaps](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb10.JPG?raw=true)
