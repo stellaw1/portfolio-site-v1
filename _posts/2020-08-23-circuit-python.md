@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circuit Python contribution
-tags: plannedproject
+tags: completedproject
 image: Blinka.png
 ---
 
