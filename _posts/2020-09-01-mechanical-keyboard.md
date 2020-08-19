@@ -49,13 +49,13 @@ When the parts arrive, you first have to check that there are no defects. Specif
 ![desk space](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb16.jpg?raw=true)
 
 ### Step 4 - Flash 
-*The firmware that came with the PCB I ordered is a little buggy, so I'm still working through this step. Looking for alternative flashing software*
+*Disclaimer: The firmware that came with the PCB I ordered is a little buggy, so I'm still working through this step. Looking for alternative flashing software*
 
 
 # Parts
 **PCB/Case/Plate/Stabilizer:** 80% TKL Layout Kit [link](https://www.aliexpress.com/item/33028638867.html?spm=a2g0o.cart.0.0.47ef3c00Im9sn9&gps-id=shopcart_buyagain&scm=1007.13440.139630.0&scm_id=1007.13440.139630.0&scm-url=1007.13440.139630.0&pvid=1f753d2f-7cb0-4624-8b02-38a994d4f980)
 
-###### XD87 Hot Swappable PCB with underglow LED
+###### XD87 Hot Swappable PCB with underglow LED and USB-C connection
 ![PCB front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb5.jpg?raw=true)
 ![PCB back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb6.jpg?raw=true)
 
@@ -77,3 +77,11 @@ When the parts arrive, you first have to check that there are no defects. Specif
 
 ###### 104 Key Translucent PBT Keycaps
 ![Keycaps](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/kb10.jpg?raw=true)
+
+
+# Reflection
+The process of building my keyboard was a little trickier than I imagined. For example, mounting the stabilizers into my PCB took a lot of force and honestly hurt my fingers. Having the hot swappable PCB definitely made the process easier, so I highly recommend choosing a hot swappable PCB if you are building a custom mechanical keyboard for the first time. It avoids the need to saulder and is more lenient with mistakes. 
+
+Basically, I now have a very expensive hobby because building mechanical keyboards from scratch is honestly more expensive then buying pre-built ones. However, there is something so satisfying about using products that you designed, built, and cultivated. I am hoping to build two more keyboards in the near future (one that is not hot swappable and one that is a 60% size). As well, I am hoping to film a sick video for the next keyboard I build. 
+
+PS. hit me up if you have more than $200 to drop and want a custom mechanical keyboard, I would be happy to build one for you :)
