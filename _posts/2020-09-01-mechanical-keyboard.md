@@ -2,7 +2,7 @@
 layout: post
 title: Custom Mechanical Keyboard
 tags: completedproject
-image: kb3.jpg
+image: kb3.JPG
 ---
 
 
