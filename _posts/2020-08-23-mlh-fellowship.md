@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLH Fellowship Log [Ongoing]
+title: MLH Fellowship Log
 tags: blog
 ---
 
@@ -193,6 +193,12 @@ Creating Docker Images (both from an exisitng container and from scratch): https
 
   </div>
 </details>
+
+
+# Reflection
+ - learnt a new framework: React Native
+ - became more familiar with app development, specifically android development
+ - met some amazing people!!
 
 
 
