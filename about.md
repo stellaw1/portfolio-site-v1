@@ -10,13 +10,13 @@ My name is Stella Wang, and I am a third year computer engineering student at th
 
 
 ## What am I up to right now?
-###### Updated: August 29th 
-Looking forward to starting my Fall internship at SAP soon!
+###### Updated: October 4th
+Meeting new people, learning new technologies, and coding with my team at SAP as a software developer intern!
 
 ## Career Interests
-- Software development of cyber security in online banking
-- Fullstack development (the niche field of connecting front end and back end interests me)
-- AI development contributing to a more sustainable environment
+- Software development
+- Fullstack development
+- AI & Automation
 
 ## Languages and Frameworks
  - Java
@@ -33,7 +33,7 @@ Looking forward to starting my Fall internship at SAP soon!
 - Painting (Oil painting, acrylic, digital)
 - Journalling
 - Sports (Soccer, Volleyball, Kickboxing)
-- Traveling - *check out my travel vlogs on youtube!*
+- Travelling - *check out my travel vlogs on youtube!*
 
 ## Contact me
-##### *linked below*
+###### *linked below*
