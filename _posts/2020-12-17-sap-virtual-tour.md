@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAP d-shop virtual AR/VR office tour
-tags: completedproject
+tags: pcompletedproject
 image: kb3.JPG
 ---
 
