@@ -81,7 +81,7 @@ PS. hit me up if you have more than $200 to drop and want a custom mechanical ke
 
 
 # Version 2 Upgrades
-###### **Date: ** March 8th, 2021
+###### Date: March 8th, 2021
 
 So I was getting kind of tired of my Gateron Browns. They were a little too light and not clicky enough, which lead to a lot of typos while coding and not enough satisfaction while gaming. I decided to invest in some upgrades for my board. I also finally got around to saudering hot swap LED sockets which I've had lying around for the longest time.
 
