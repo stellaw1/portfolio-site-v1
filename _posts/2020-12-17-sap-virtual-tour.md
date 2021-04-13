@@ -10,7 +10,7 @@ image: sap-vr-tour.png
 SAP d-shop virtual AR/VR office tour
 
 ## Try it out here
-https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/
+[https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/](https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/)
 
 
 ## Summary
