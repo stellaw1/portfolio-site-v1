@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Custom Mechanical Keyboard
-tags: completedproject
+tags: pproject
 image: kb3.JPG
 ---
 
 
-As I say... Everyone needs an expensive hobby :)
+Ian's birthday gift aka trying to suck my brother into this expensive hobby.
 
 
 ## Summary
