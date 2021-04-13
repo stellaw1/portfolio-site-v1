@@ -4,7 +4,7 @@
 name: Stella Wang
 
 # Short bio or description (displayed in the header)
-description: An engineering student with little time & BIG ideas. 
+description: An engineering student with little time & BIG ideas.
 
 # URL my GitHub profile pic
 avatar: https://avatars0.githubusercontent.com/u/46392676?s=460&v=4
@@ -41,7 +41,8 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 
+  twitter: stellaw__
+  twitch: stellastellaola
   youtube: channel/UCt2N5_ti9WrcclByyEC0unw/ # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
@@ -89,7 +90,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
   - jekyll-seo-tag
-  - jemoji 
+  - jemoji
 
 # Exclude these files from your production _site
 exclude:
