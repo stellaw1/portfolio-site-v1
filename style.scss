@@ -27,6 +27,9 @@ body {
   line-height: 1.8;
   background-image: url('/images/background.png');
   background-repeat: no-repeat;
+  @include mobile {
+    background-color: $main-background;
+  }
 }
 
 .container {
@@ -523,8 +526,8 @@ nav {
 }
 
 .projects > .project {
-  padding-bottom: 2em;
-  margin-bottom: 30px;
+  padding-bottom: 1em;
+  margin-bottom: 10px;
 }
 
 .projects > .project:last-child {
