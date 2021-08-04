@@ -18,12 +18,18 @@
 html {
   font-size: $base-font-size;
   font-family: $base-font;
+  background-color: $main-background
 }
 
 body {
   font-family: $base-font;
   color: $base-color;
   line-height: 1.8;
+  background-image: url('/images/background.png');
+  background-repeat: no-repeat;
+  @include mobile {
+    background-image: url('/images/background-mobile.png');
+  }
 }
 
 .container {
@@ -276,8 +282,7 @@ a.footnote {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1em;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -522,18 +527,17 @@ nav {
 }
 
 .projects > .project {
-  padding-bottom: 2em;
-  border-bottom: 30px solid white;
+  margin-bottom: 26px;
 }
 
 .projects > .project:last-child {
-  padding-bottom: 1em;
-  border-bottom: 30px solid white;
+  margin-bottom: 10px;
 }
 
 .project {
-  background-color: $footer-background-color;
-  height: 250px;
+  border-radius: 18px;
+  background-color: $projects-background;
+  height: 220px;
 
   @include mobile {
     height: 190px;
@@ -575,6 +579,7 @@ nav {
   width: 300px;
   float: left;
   max-width: 30%;
+  border-radius: 1px;
 
   @include mobile {
     height: 100px;
