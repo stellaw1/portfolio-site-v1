@@ -25,6 +25,8 @@ body {
   font-family: $base-font;
   color: $base-color;
   line-height: 1.8;
+  background-image: url('images/background.png');
+  background-repeat: no-repeat;
 }
 
 .container {
