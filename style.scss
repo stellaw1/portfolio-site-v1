@@ -523,16 +523,15 @@ nav {
 }
 
 .projects > .project {
-  padding-bottom: 2em;
-  border-bottom: 30px solid $main-background;
+  padding-bottom: 52em;
 }
 
 .projects > .project:last-child {
-  padding-bottom: 1em;
-  border-bottom: 30px solid $main-background;
+  padding-bottom: 20em;
 }
 
 .project {
+  border-radius: 25px;
   background-color: $projects-background;
   height: 250px;
 
