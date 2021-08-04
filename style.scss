@@ -18,7 +18,7 @@
 html {
   font-size: $base-font-size;
   font-family: $base-font;
-  background-color: $background2
+  background-color: $main-background
 }
 
 body {
@@ -524,16 +524,16 @@ nav {
 
 .projects > .project {
   padding-bottom: 2em;
-  border-bottom: 30px solid white;
+  border-bottom: 30px solid $main-background;
 }
 
 .projects > .project:last-child {
   padding-bottom: 1em;
-  border-bottom: 30px solid white;
+  border-bottom: 30px solid $main-background;
 }
 
 .project {
-  background-color: $footer-background-color;
+  background-color: $projects-background;
   height: 250px;
 
   @include mobile {
