@@ -526,7 +526,7 @@ nav {
 }
 
 .projects > .project {
-  margin-bottom: 22px;
+  margin-bottom: 26px;
 }
 
 .projects > .project:last-child {
@@ -534,9 +534,9 @@ nav {
 }
 
 .project {
-  border-radius: 25px;
+  border-radius: 18px;
   background-color: $projects-background;
-  height: 240px;
+  height: 220px;
 
   @include mobile {
     height: 190px;
