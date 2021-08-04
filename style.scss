@@ -28,7 +28,7 @@ body {
   background-image: url('/images/background.png');
   background-repeat: no-repeat;
   @include mobile {
-    background-color: $main-background;
+    background-image: url('/images/background-mobile.png');
   }
 }
 
@@ -526,13 +526,13 @@ nav {
 }
 
 .projects > .project {
-  padding-bottom: 1em;
-  margin-bottom: 10px;
+  padding-bottom: 2em;
+  margin-bottom: 6px;
 }
 
 .projects > .project:last-child {
   padding-bottom: 1em;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .project {
