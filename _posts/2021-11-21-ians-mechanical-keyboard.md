@@ -6,7 +6,7 @@ image: kb3.JPG
 ---
 
 
-Ian's birthday gift aka trying to suck my brother into this expensive hobby.
+Ian's birthday gift aka trying to lure my brother into this expensive hobby.
 
 
 ## Summary

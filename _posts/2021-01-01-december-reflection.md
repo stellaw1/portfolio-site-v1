@@ -28,11 +28,11 @@ In 2021, I hope to achieve these 12 concrete goals (1 for each month?) Meanwhile
 1. Learn PCB design - build keyboard from scratch
 2. Keyboard YouTube video
 3. Posture - don’t break neck & back
-4. Connect with manager and higher level employees at SAP
-5. Practice reading comprehension & vocabulary - read 1 book by summer
-6. Build PC
-7. Summer Travel vlogs
-8. Learn AI by enrolling in a course
+4. ~~Connect with manager and higher level employees at SAP~~
+5. ~~Practice reading comprehension & vocabulary - read 1 book by summer~~
+6. ~~Build PC~~
+7. ~~Summer Travel vlogs~~
+8. ~~Learn AI by enrolling in a course~~
 9.  Draft a simple b&w resume
 10. Don’t fail ELEC
 11. At least 80% in courses
