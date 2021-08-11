@@ -22,7 +22,6 @@ html {
 }
 
 body {
-  height: 95vh;
   font-family: $base-font;
   color: $base-color;
   line-height: 1.8;
@@ -32,6 +31,15 @@ body {
   @include mobile {
     background-image: url('/images/background-mobile.png');
   }
+}
+
+div.img {
+  background-image: url('/images/homepage.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
 }
 
 .container {
