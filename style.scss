@@ -38,7 +38,8 @@ div.img {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 95vh;
+  height: calc(100vh - 300px);
+  max-width: 100%;
 }
 
 .container {
