@@ -22,11 +22,13 @@ html {
 }
 
 body {
+  height: 95vh;
   font-family: $base-font;
   color: $base-color;
   line-height: 1.8;
   background-image: url('/images/background.png');
   background-repeat: no-repeat;
+  background-size: 100%;
   @include mobile {
     background-image: url('/images/background-mobile.png');
   }
