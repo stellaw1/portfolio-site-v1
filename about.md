@@ -10,30 +10,15 @@ My name is Stella Wang, and I am a third year computer engineering student at th
 
 
 ## What am I up to right now?
-###### Updated: October 4th
-Meeting new people, learning new technologies, and coding with my team at SAP as a software developer intern!
+###### Updated: August 16th, 2021
+Finished up my internship at SAP, spent the summer enjoying the post-quarantine life while taking a few courses, and getting excited to go back to school and learn!
 
 ## Career Interests
-- Software development
 - Fullstack development
-- AI & Automation
-
-## Languages and Frameworks
- - Java
- - C/C++
- - Python
- - HTML, CSS
- - React
- - Hardware (RPi, Arduino, microcontrollers, Adafruit boards, etc)
- - Verilog
- - ARM Assembly
+- Data science
 
 ## Hobbies
-- Hackathons
-- Painting (Oil painting, acrylic, digital)
-- Journalling
-- Sports (Soccer, Volleyball, Kickboxing)
+- Mechanical Keyboards
+- Digital art & design
+- Sports - Soccer, Volleyball, Kickboxing
 - Travelling - *check out my travel vlogs on youtube!*
-
-## Contact me
-###### *linked below*
