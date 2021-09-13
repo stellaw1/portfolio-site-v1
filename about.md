@@ -10,8 +10,8 @@ My name is Stella Wang, and I am a third year computer engineering student at th
 
 
 ## What am I up to right now?
-###### Updated: August 16th, 2021
-Finished up my internship at SAP, spent the summer enjoying the post-quarantine life while taking a few courses, and getting excited to go back to school and learn!
+###### Updated: September 13th, 2021
+Keeping up with school courses, applying for summer internships, and working on startups!
 
 ## Career Interests
 - Fullstack development
