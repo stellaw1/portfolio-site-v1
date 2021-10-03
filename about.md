@@ -10,8 +10,8 @@ My name is Stella Wang, and I am a third year computer engineering student at th
 
 
 ## What am I up to right now?
-###### Updated: September 13th, 2021
-Keeping up with school courses, applying for summer internships, and working on startups!
+###### Updated: October 3rd, 2021
+Finishing up my third year courses at UBC and looking forward to my summer 2022 internship at Amazon Toronto!
 
 ## Career Interests
 - Fullstack development
