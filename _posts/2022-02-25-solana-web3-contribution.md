@@ -15,6 +15,11 @@ The @solana/web3.js repository is a library containing the necessary tools to in
 1. custom inspect function for publickey.ts
 2. add getBlockProduction RPC call
 3. debug getMultipleAccountsInfo
+4. wallet adapter code snippet for Vue in cookbook
+5. dApp scaffold in Vue
+6. transaction confirmation logic bug
 
 # Personal projects
 1. fellow meet fellow dApp
+2. display favourite spotify albums - all time and recently most played (or books)
+3. leetcode tracker
