@@ -25,6 +25,5 @@ Finishing up my third year courses at UBC, contributing to Solana's open source 
 
 ## Hobbies
 - Mechanical Keyboards
-- Digital art & design
 - Sports - Soccer, Volleyball, Kickboxing, Skiing
 - Travelling - *check out my travel vlogs on youtube!*
