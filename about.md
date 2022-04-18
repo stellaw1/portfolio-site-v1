@@ -6,8 +6,8 @@ permalink: /about/
 
 <!-- ![me1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me1.jpg?raw=true) -->
 
-![me2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me2.jpg?raw=true)  | ![me3](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me3.jpg?raw=true)
-|-|-|
+| ![me2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me2.jpg?raw=true) | ![me3](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me3.jpg?raw=true) |
+| :-------------------------:|:-------------------------: |
 
 <!-- <p float="left">
     <img src="https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me2.jpg?raw=true" width="40%" />
