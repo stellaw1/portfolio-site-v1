@@ -7,7 +7,7 @@ permalink: /about/
 <!-- ![me1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me1.jpg?raw=true) -->
 
 <p>
-    <img src="https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me2.jpg?raw=true" width="48%" padding-right="5px"/>
+    <img src="https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me2.jpg?raw=true" width="48%" />
     <img src="https://github.com/stellaw1/stellaw1.github.io/blob/master/images/me3.jpg?raw=true" width="48%" />
 </p>
 
