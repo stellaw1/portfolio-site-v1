@@ -6,6 +6,9 @@ image: solana.jpg
 ---
 
 
+First peak into the world of blockchain!
+
+
 During Spring 2022, through the MLH Fellowship, I made some meaningful contributions to Solana's open-source projects and learnt an immense amount about Solana and blockchain in general. 
 
 # Solana Web3

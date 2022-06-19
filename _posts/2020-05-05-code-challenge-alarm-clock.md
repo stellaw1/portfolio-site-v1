@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Challenge Tracker
-tags: plannedproject
+tags: pplannedproject
 image: codechallenge.png
 ---
 
